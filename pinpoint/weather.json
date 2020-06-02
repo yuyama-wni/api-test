@@ -2011,6 +2011,17 @@
 		
 		]
 		,
+	"area_recommend":[
+     	{
+	 	"card": "area_recommend",
+	 	"title": "東京のおすすめ情報",
+	 	"recommend_list":[
+	 	    {"text":"東京の天気痛情報","image":"","url":"https://weathernews.jp/s/pain/index.html?map=TOKYO"},
+	 	    {"text":"東京の桜の満開はいつ？","image":"","url":"https://weathernews.jp/s/sakura/area/tokyo.html"},
+	 	    {"text":"東京の花粉飛散情報","image":"","url":"https://weathernews.jp/s/pollen/fcst_list/tokyo.html"}
+     	    ]
+     	}
+ 	],
 	"contents_recommend": [
 		  {
 		    "card": "contents_recommend",
