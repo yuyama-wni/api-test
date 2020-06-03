@@ -8,19 +8,20 @@
 	 "card": "area_recommend",
 	 "title": "東京のおすすめ情報",
 	 "recommend_list":[
-	     {"text":"東京の天気痛情報","image":"","url":"https://weathernews.jp/s/pain/index.html?map=TOKYO"},
-	     {"text":"東京の桜の満開はいつ？","image":"","url":"https://weathernews.jp/s/sakura/area/tokyo.html"},
-	     {"text":"東京の花粉飛散情報","image":"","url":"https://weathernews.jp/s/pollen/fcst_list/tokyo.html"}
+	     {"text":"東京の天気痛情報","image":"https://smtgvs.weathernews.jp/ip/tabmenu/icon/icon_pain@2x.png","url":"https://weathernews.jp/s/pain/index.html?map=TOKYO"},
+	     {"text":"東京の桜の満開はいつ？","image":"https://smtgvs.weathernews.jp/ip/tabmenu/icon/icon_sakura@2x.png","url":"https://weathernews.jp/s/sakura/area/tokyo.html"},
+	     {"text":"東京の花粉飛散情報","image":"https://smtgvs.weathernews.jp/ip/tabmenu/icon/icon_pollen@2x.png","url":"https://weathernews.jp/s/pollen/fcst_list/tokyo.html"}
          ]
      }
  ],
  "contents_recommend":[
      {
-    "card": "contents_recommend",
-    "title": "テレワーク中の情報漏えいに要注意。Zoom、Dropbox…すぐできる対策は？",
-    "txt": "デスクトップを共有するときにフォルダの中身やメールの内容をとっさに見せてしまい、スクリーンショットを撮られてしまえば取り返しが付きません。そのため通話中の環境に配慮しておくのも、個々人で気を付けるべきポイントです。",
-    "img": "https://amd.c.yimg.jp/amd/20200428-00300578-bizspa-000-1-view.jpg",
-    "url": "xxxx"
+	 "card": "contents_recommend",
+	 "title": "",
+	 "txt": "現在・今日・明日の熱中症危険度は？",
+	 "img": "",
+	 "url": "weathernews://weathernews.jp/smarttop",
+	 "banner_color": "red"
      }
  ],
  "news":[{"card":"news","news_list":[{"txt":"【今日の天気】東京など関東は遅い時間ほど傘の出番","img":"https://smtgvs.weathernews.jp//s/topics/thumb/article/202005280035_sns_img_A_240x180.jpg?1590625877","url":"https://weathernews.jp/s/topics/202005/280035/?fm=under_pinpoint1","edit_tm":1590630882},{"txt":"【週間天気】晴天は明日まで　週末以降は曇りが多い","img":"https://smtgvs.weathernews.jp//s/topics/thumb/article/202005270095_top_img_A_240x180.jpg?1590609251","url":"https://weathernews.jp/s/topics/202005/270095/?fm=under_pinpoint2","edit_tm":1590610998},{"txt":"西日本から東北はカラッとした暑さに","img":"https://smtgvs.weathernews.jp//s/topics/thumb/article/202005280065_sns_img_A_240x180.jpg?1590631881","url":"https://weathernews.jp/s/topics/202005/280065/?fm=under_pinpoint3","edit_tm":1590632940},{"txt":"ライブカメラ設置にご協力を","img":"https://weathernews.jp/ip/sidemenu/icon/topics_livecamera@2x.png","url":"https://weathernews.jp/s/livecam_entry/?fm=under_pinpoint4","edit_tm":1590428399}]}],
