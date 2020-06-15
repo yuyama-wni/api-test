@@ -10,7 +10,7 @@
 	 "recommend_list":[
 	     {"text":"東京の天気痛情報","image":"https://smtgvs.weathernews.jp/ip/tabmenu/icon/icon_pain@2x.png","url":"https://weathernews.jp/s/pain/index.html?map=TOKYO","premium":0},
 	     {"text":"東京の桜の満開はいつああああああああああああああああああああ？","image":"https://smtgvs.weathernews.jp/ip/tabmenu/icon/icon_sakura@2x.png","url":"https://weathernews.jp/s/sakura/area/tokyo.html","premium":1},
-	     {"text":"東京の花粉飛散情報","image":"https://smtgvs.weathernews.jp/ip/tabmenu/icon/icon_pollen@2x.png","url":"https://weathernews.jp/s/pollen/fcst_list/tokyo.html","premium":0}
+	     {"text":"東京の花粉飛散情報","image":"http://pt-apns600-vmg.wni.co.jp/ip/henmim/pinpoint/img/xxxxxxx.jpg","url":"https://weathernews.jp/s/pollen/fcst_list/tokyo.html","premium":0}
          ]
      }
  ],
@@ -19,7 +19,7 @@
 	 "card": "contents_recommend1",
 	 "title": "お家で影アート",
 	 "txt": "ステイホームをみんなで楽しもう！さまざまな影アートが届いています",
-	 "img": "http://pt-apns600-vmg.wni.co.jp/ip/henmim/pinpoint/img/ORGA50342102.jpg",
+	 "img": "http://pt-apns600-vmg.wni.co.jp/ip/henmim/pinpoint/img/xxxxxxx.jpg",
 	 "url": "weathernews://weathernews.jp/smarttop?curation_id=202006110035",
 	 "banner_color": ""
      },
