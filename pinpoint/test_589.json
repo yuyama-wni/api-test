@@ -9,8 +9,8 @@
 	 "title": "東京のおすすめ情報",
 	 "recommend_list":[
 	     {"text":"東京の天気痛情報","image":"https://smtgvs.weathernews.jp/ip/tabmenu/icon/icon_pain@2x.png","url":"https://weathernews.jp/s/pain/index.html?map=TOKYO","premium":0},
-	     {"text":"東京の桜の満開はいつ？","image":"https://smtgvs.weathernews.jp/ip/tabmenu/icon/icon_sakura@2x.png","url":"https://weathernews.jp/s/sakura/area/tokyo.html","premium":0},
-	     {"text":"東京の花粉飛散情報","image":"https://smtgvs.weathernews.jp/ip/tabmenu/icon/icon_pollen@2x.png","url":"https://weathernews.jp/s/pollen/fcst_list/tokyo.html","premium":1}
+	     {"text":"東京の桜の満開はいつああああああああああああああああああああ？","image":"https://smtgvs.weathernews.jp/ip/tabmenu/icon/icon_sakura@2x.png","url":"https://weathernews.jp/s/sakura/area/tokyo.html","premium":1},
+	     {"text":"東京の花粉飛散情報","image":"https://smtgvs.weathernews.jp/ip/tabmenu/icon/icon_pollen@2x.png","url":"https://weathernews.jp/s/pollen/fcst_list/tokyo.html","premium":0}
          ]
      }
  ],
