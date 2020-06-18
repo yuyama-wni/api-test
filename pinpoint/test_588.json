@@ -3,10 +3,11 @@
  	[
  	"adx_banner",
  	"report",
- 	"contents_recommend2",
+ 	"wx_driven_contents",
  	"news",
  	"area_recommend",
  	"contents_recommend1",
+ 	"contents_recommend2",
  	"contents_recommend3",
  	"contents_recommend4",
  	"contents_recommend5",
@@ -85,6 +86,16 @@
 	 "banner_color": "red"
      }
      
+ ],
+"wx_driven_contents":[
+   {
+	 "card": "wx_driven_contents",
+	 "title": "お家で影アート",
+	 "txt": "ステイホームをみんなで楽しもう！さまざまな影アートが届いています",
+	 "img": "http://pt-apns600-vmg.wni.co.jp/ip/henmim/pinpoint/img/xxxxxxx.jpg",
+	 "url": "weathernews://weathernews.jp/smarttop?curation_id=202006110035",
+	 "banner_color": ""
+   }
  ],
  "news":[{"card":"news","news_list":[{"txt":"【今日の天気】東京など関東は遅い時間ほど傘の出番","img":"https://smtgvs.weathernews.jp//s/topics/thumb/article/202005280035_sns_img_A_240x180.jpg?1590625877","url":"https://weathernews.jp/s/topics/202005/280035/?fm=under_pinpoint1","edit_tm":1590630882},{"txt":"【週間天気】晴天は明日まで　週末以降は曇りが多い","img":"https://smtgvs.weathernews.jp//s/topics/thumb/article/202005270095_top_img_A_240x180.jpg?1590609251","url":"https://weathernews.jp/s/topics/202005/270095/?fm=under_pinpoint2","edit_tm":1590610998},{"txt":"西日本から東北はカラッとした暑さに","img":"https://smtgvs.weathernews.jp//s/topics/thumb/article/202005280065_sns_img_A_240x180.jpg?1590631881","url":"https://weathernews.jp/s/topics/202005/280065/?fm=under_pinpoint3","edit_tm":1590632940},{"txt":"ライブカメラ設置にご協力を","img":"https://weathernews.jp/ip/sidemenu/icon/topics_livecamera@2x.png","url":"https://weathernews.jp/s/livecam_entry/?fm=under_pinpoint4","edit_tm":1590428399}]}],
  "ad_info":{"admob_banner_50":{"adid":"ca-app-pub-7577457140620199/9854399090"},"admob_banner_100":{"adid":"ca-app-pub-7577457140620199/6925941280"},"admob_native_100":{"adid":"ca-app-pub-7577457140620199/3913576500"},"adx_banner_100":{"adid":"/284705699/ca-mb-app-pub-7732679874752919-tag/PinpointBannerAd_Android"},"line_banner_100":{"adid":"832724"}}}
