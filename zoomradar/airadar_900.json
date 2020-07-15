@@ -1,4 +1,4 @@
-{"max_zoom":9,"legend":"https://tile.weathernews.jp/nowcast/res/legend_zoomradar_rain@2x.png","devide_index":35,"button_title_text":"12","button_scale_text":"時間","tile":[
+{"max_zoom":9,"legend":"https://tile.weathernews.jp/nowcast/res/legend_zoomradar_rain@2x.png","devide_index":53,"button_title_text":"12","button_scale_text":"時間","tile":[
 {"tm":1594797600,"d":"https://tile.weathernews.jp/2/tile/rad_anl/2020/07/15/2020-07-15-07-20_Tiles_999999999999","isPremium":false,"isForecast":false,"label":"1時間前"},
 {"tm":1594797900,"d":"https://tile.weathernews.jp/2/tile/rad_anl/2020/07/15/2020-07-15-07-25_Tiles_999999999999","isPremium":false,"isForecast":false},
 {"tm":1594798200,"d":"https://tile.weathernews.jp/2/tile/rad_anl/2020/07/15/2020-07-15-07-30_Tiles_999999999999","isPremium":false,"isForecast":false},
@@ -34,7 +34,7 @@
 {"tm":1594809600,"d":"https://tile.weathernews.jp/2/tile/rad_fct/2020/07/15/202007150805/20200715104000","isPremium":true,"isForecast":true},
 {"tm":1594810200,"d":"https://tile.weathernews.jp/2/tile/rad_fct/2020/07/15/202007150805/20200715105000","isPremium":true,"isForecast":true},
 {"tm":1594810800,"d":"https://tile.weathernews.jp/2/tile/rad_fct/2020/07/15/202007150805/20200715110000","isPremium":true,"isForecast":true},
-{"tm":1594811400,"d":"https://tile.weathernews.jp/2/tile/rad_own/2020/07/15/2020071503/20200715111000","isPremium":true,"isForecast":true,"label":"3時間後"},
+{"tm":1594811400,"d":"https://tile.weathernews.jp/2/tile/rad_own/2020/07/15/2020071503/20200715111000","isPremium":true,"isForecast":true,"label":"3"},
 {"tm":1594812000,"d":"https://tile.weathernews.jp/2/tile/rad_own/2020/07/15/2020071503/20200715112000","isPremium":true,"isForecast":true},
 {"tm":1594812600,"d":"https://tile.weathernews.jp/2/tile/rad_own/2020/07/15/2020071503/20200715113000","isPremium":true,"isForecast":true},
 {"tm":1594813200,"d":"https://tile.weathernews.jp/2/tile/rad_own/2020/07/15/2020071503/20200715114000","isPremium":true,"isForecast":true},
@@ -52,7 +52,7 @@
 {"tm":1594820400,"d":"https://tile.weathernews.jp/2/tile/rad_own/2020/07/15/2020071503/20200715134000","isPremium":true,"isForecast":true},
 {"tm":1594821000,"d":"https://tile.weathernews.jp/2/tile/rad_own/2020/07/15/2020071503/20200715135000","isPremium":true,"isForecast":true},
 {"tm":1594821600,"d":"https://tile.weathernews.jp/2/tile/rad_own/2020/07/15/2020071503/20200715140000","isPremium":true,"isForecast":true},
-{"tm":1594822200,"d":"https://tile.weathernews.jp/2/tile/rad_own/2020/07/15/2020071503/20200715141000","isPremium":true,"isForecast":true,"label":"6"},
+{"tm":1594822200,"d":"https://tile.weathernews.jp/2/tile/rad_own/2020/07/15/2020071503/20200715141000","isPremium":true,"isForecast":true,"label":"6時間後"},
 {"tm":1594822800,"d":"https://tile.weathernews.jp/2/tile/rad_own/2020/07/15/2020071503/20200715142000","isPremium":true,"isForecast":true},
 {"tm":1594823400,"d":"https://tile.weathernews.jp/2/tile/rad_own/2020/07/15/2020071503/20200715143000","isPremium":true,"isForecast":true},
 {"tm":1594824000,"d":"https://tile.weathernews.jp/2/tile/rad_own/2020/07/15/2020071503/20200715144000","isPremium":true,"isForecast":true},
