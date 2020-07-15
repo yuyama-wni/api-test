@@ -1,0 +1,53 @@
+{
+"overlay":[
+    {"mode":"ame",
+     "title":"雨雲（AIレーダー900）",
+     "data_type":"tile",
+     "scale_format":"3h",
+     "date_format":"d日H時mm分",
+     "first_select":true,
+     "show_current":true,
+     "bg_color":"#2375FF",
+     "font_color":"#ffffff",
+     "font_size":18.0,
+     "url":"https://tile.weathernews.jp/2/json/airadar_900.json",
+     "img":"https://smtgvs.weathernews.jp/ip/zoomradar/icon/tabicon_radar@2x.png",
+     "img_white":"https://smtgvs.weathernews.jp/ip/zoomradar/icon/tabicon_radar_white@2x.png",
+     "legend": "https://tile.weathernews.jp/nowcast/res/legend_zoomradar_rain@2x.png"
+    },
+    
+    {
+      "mode": "ame",
+      "title": "雨雲（現行）",
+      "data_type": "tile",
+      "scale_format": "3h",
+      "date_format": "d日HH時mm分",
+      "first_select": true,
+      "show_current": true,
+      "bg_color": "#2375FF",
+      "font_color": "#ffffff",
+      "font_size": 18.0,
+      "url": "https://tile.weathernews.jp/json/nowcast_460.json",
+      "img": "https://smtgvs.weathernews.jp/ip/zoomradar/icon/tabicon_radar@2x.png",
+      "img_white": "https://smtgvs.weathernews.jp/ip/zoomradar/icon/tabicon_radar_white@2x.png",
+      "legend": "https://tile.weathernews.jp/nowcast/res/legend_zoomradar_rain@2x.png"
+    },
+    
+    {"mode":"thunder",
+     "title":"落雷",
+     "data_type":"thunder",
+     "scale_format":"simple",
+     "date_format":"d日H時mm分",
+     "first_select":false,
+     "show_current":true,
+     "bg_color":"#FFCC00",
+     "font_color":"#ffffff",
+     "font_size":18.0,
+     "url":"",
+     "img":"https://smtgvs.weathernews.jp/ip/zoomradar/icon/tabicon_thunder@2x.png",
+     "img_white":"https://smtgvs.weathernews.jp/ip/zoomradar/icon/tabicon_thunder_white@2x.png",
+     "legend":"https://smtgvs.weathernews.jp/ip/zoomradar/icon/legend_zoomradar_thunder@2x.png"
+    }
+    
+]
+}
