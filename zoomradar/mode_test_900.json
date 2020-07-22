@@ -56,7 +56,7 @@
      "date_format":"",
      "first_select":false,
      "show_current":false,
-     "bg_color":"#2375FF",
+     "bg_color":"#C55FBB",
      "font_color":"#ffffff",
      "font_size":18.0,
      "url":"https://tile.weathernews.jp/json/satir.json",
