@@ -64,6 +64,23 @@
      "img_white":"https://smtgvs.weathernews.jp/ip/zoomradar/icon/tabicon_typhoon_white@2x.png",
      "legend":""
     },
+    
+    {
+      "mode": "wbgt",
+      "title": "熱中症",
+      "data_type": "tile",
+      "scale_format": "simple",
+      "date_format": "M月d日(EEE)HH時",
+      "first_select": false,
+      "show_current": true,
+      "bg_color": "#ff0000",
+      "font_color": "#ffffff",
+      "font_size": 18.0,
+      "url": "https://tile.weathernews.jp/json/wbgt.json",
+      "img": "https://smtgvs.weathernews.jp/ip/zoomradar/icon/tabicon_wbgt@2x.png",
+      "img_white": "https://smtgvs.weathernews.jp/ip/zoomradar/icon/tabicon_wbgt_white@2x.png",
+      "legend": "https://tile.weathernews.jp/wbgt/res/legend_zoomradar_WBGT@3x.png"
+    },
 
     {"mode":"ameyuki",
      "title":"雨/雪",
