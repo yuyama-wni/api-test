@@ -17,7 +17,7 @@
     },
     
     {
-      "mode": "ame",
+      "mode": "ame_old",
       "title": "雨雲（現行）",
       "data_type": "tile",
       "scale_format": "3h",
