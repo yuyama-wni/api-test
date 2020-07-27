@@ -43,9 +43,9 @@
      {
 	 "card": "contents_recommend4",
 	 "title": "",
-	 "txt": "キュレーション表示(IDなし)",
+	 "txt": "減災CH",
 	 "img": "",
-	 "url": "weathernews://weathernews.jp/smarttop",
+	 "url": "https://weathernews.jp/smart/gensai/",
 	 "banner_color": "green"
      },
       {
