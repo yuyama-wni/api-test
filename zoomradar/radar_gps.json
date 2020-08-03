@@ -1,0 +1,110 @@
+{
+"areaname":"茨城県つくば市寺具",
+"title":"急な雨雲の発生、発達に注意",
+"comment":"大気の状態が不安定となっており、雨雲が急に発生、発達する可能性があります。ニワカ雨や雷雨に注意してください。",
+"weather_list":
+	[
+	
+		{
+		"display_string":"影はっきり",
+		"code":"100"
+		}
+		,
+	
+		{
+		"display_string":"影うっすら",
+		"code":"101"
+		}
+		,
+	
+		{
+		"display_string":"影なし",
+		"code":"200"
+		}
+		,
+	
+		{
+		"display_string":"ポツポツ",
+		"code":"300"
+		}
+		,
+	
+		{
+		"display_string":"パラパラ",
+		"code":"301"
+		}
+		,
+	
+		{
+		"display_string":"サー",
+		"code":"302"
+		}
+		,
+	
+		{
+		"display_string":"ザーザー",
+		"code":"303"
+		}
+		,
+	
+		{
+		"display_string":"ゴォーー",
+		"code":"304"
+		}
+		,
+	
+		{
+		"display_string":"わからない",
+		"code":"999"
+		}
+		
+	]
+	,
+"area_recommend":
+	[
+	
+		{
+		"card":"area_recommend",
+		"title":"茨城のおすすめ情報",
+		"recommend_list":
+			[
+			
+				{
+				"txt":"明日は何着ていこう？",
+				"img":"https://site.weathernews.jp/app/img/radar_gps/area_rec/icon_fukusou.png",
+				"url":"https://weathernews.jp/s/info/clothes_forecast/",
+				"premium":0
+				}
+				,
+			
+				{
+				"txt":"今日明日の熱中症の危険度を確認",
+				"img":"https://site.weathernews.jp/app/img/radar_gps/area_rec/icon_heatstroke@3x.png",
+				"url":"https://weathernews.jp/s/heatstroke/pinpoint.html",
+				"premium":0
+				}
+				,
+			
+				{
+				"txt":"気圧や天気による体調への影響は？",
+				"img":"https://site.weathernews.jp/app/img/radar_gps/area_rec/icon_pain@2x.png",
+				"url":"https://weathernews.jp/s/pain/?map=TOKYO",
+				"premium":0
+				}
+				,
+			
+				{
+				"txt":"今日の運勢は？お天気占い",
+				"img":"https://site.weathernews.jp/app/img/radar_gps/area_rec/uranai_icon3.png",
+				"url":"https://weathernews.jp/s/fortune/result.html",
+				"premium":0
+				}
+				
+			]
+			
+		}
+		
+	]
+	
+}
+
