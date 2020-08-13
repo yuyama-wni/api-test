@@ -61,7 +61,7 @@
 	]
 	,
 	 "recommend_list":[
-	     {"txt":"curation_id指定あり","img":"https://smtgvs.weathernews.jp/ip/tabmenu/icon/icon_pain@2x.png","url":"weathernews://weathernews.jp/smarttop?curation_id=202005210065","premium":0},
+	     {"txt":"curation_id指定あり","img":"https://smtgvs.weathernews.jp/ip/tabmenu/icon/icon_pain@2x.png","url":"weathernews://weathernews.jp/smarttop?curation_id=202008100035","premium":0},
 	     {"txt":"curation_idなし","img":"https://smtgvs.weathernews.jp/ip/tabmenu/icon/icon_sakura@2x.png","url":"weathernews://weathernews.jp/smarttop?curation_id=xxx","premium":0},
 	     {"txt":"カテゴリー指定あり(2000)","img":"https://smtgvs.weathernews.jp/ip/tabmenu/icon/icon_pollen@2x.png","url":"weathernews://weathernews.jp/report_list?category_id=2000","premium":0},
 	     {"txt":"カテゴリー、lat/lon指定あり(1000,札幌)","img": "xxxxxx", "url": "weathernews://weathernews.jp/report_list?category_id=1000&report_lat=43.068661&report_lon=141.350755", "premium": 0},
@@ -70,7 +70,7 @@
 	     {"txt":"/notification","img": "xxxxxx", "url": "weathernews://weathernews.jp/notification", "premium": 0},
 	     {"txt":"https://weathernews.jp/s/news/rain/","img": "xxxxxx", "url": "https://weathernews.jp/s/news/rain/", "premium": 0},
 	     {"txt":"https://weathernews.jp/s/pain/alarm.html","img": "xxxxxx", "url": "https://weathernews.jp/s/pain/alarm.html", "premium": 0},
-	     {"txt":"https://weathernews.jp/s/pollen/alarm.html","img": "xxxxxx", "url": "https://weathernews.jp/s/pollen/alarm.html", "premium": 0},
+	     {"txt":"https://weathernews.jp/s/pain/?map=OSAKA","img": "xxxxxx", "url": "https://weathernews.jp/s/pain/?map=OSAKA", "premium": 0},
 	     {"txt":"https://weathernews.jp/s/typhoon/pinpoint.html?pref=CHIBA","img": "xxxxxx", "url": "https://weathernews.jp/s/typhoon/pinpoint.html?pref=CHIBA", "premium": 0},
 	     {"txt":"https://weathernews.jp/s/info/influenza_daily/","img": "xxxxxx", "url": "https://weathernews.jp/s/heatstroke/risk.html", "premium": 0}
          ]
