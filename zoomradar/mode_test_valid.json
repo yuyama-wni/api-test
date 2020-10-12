@@ -1,0 +1,16 @@
+{
+"overlay":[
+    {
+      "mode": null,
+      "title": "雨雲",
+      "data_type": "tile",
+      "scale_format": "3h",
+      "date_format": "d日HH時mm分",
+      "first_select": true,
+      "show_current": true,
+      "bg_color": "#2375FF",
+      "font_color": "#ffffff",
+      "font_size": 18.0,
+      "url": null,
+      "img": null,
+      "img_white": "https://smtgvs.weathernews.jp/ip/zoomradar/icon/tabicon_radar_white@2x.png",
