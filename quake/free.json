@@ -7,7 +7,7 @@
                "dataType" : 3,
                "spotCode" : "287",
                "spotName" : "宮城県沖",
-               "maxRank" : "6-",
+               "maxRank" : "4",
                "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210121063758.3.001.json",
                "title" : "宮城県沖",
                "quakeID" : "20210121063758",
