@@ -1,0 +1,392 @@
+
+{
+   "list" : [
+      {
+         "title" : "2021年 1月19日(火)",
+         "list" : [
+             {
+                "dataType" : 3,
+                "spotCode" : "197",
+                "spotName" : "択捉島南東沖",
+                "maxRank" : "1",
+                "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210118110628.3.001.json",
+                "title" : "5分前",
+                "quakeID" : "20210119140000",
+                "quakeTime" : 1611549099 
+             },
+             {
+                "dataType" : 3,
+                "spotCode" : "197",
+                "spotName" : "択捉島南東沖",
+                "maxRank" : "2",
+                "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210118110628.3.001.json",
+                "title" : "10分前",
+                "quakeID" : "20210119140000",
+                "quakeTime" : 1611548834 
+             },
+
+             {
+                "dataType" : 3,
+                "spotCode" : "197",
+                "spotName" : "択捉島南東沖",
+                "maxRank" : "3",
+                "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210118110628.3.001.json",
+                "title" : "20分前",
+                "quakeID" : "20210119133000",
+                "quakeTime" : 1611548285 
+             },
+            {
+               "dataType" : 3,
+               "spotCode" : "197",
+               "spotName" : "30分以上前",
+               "maxRank" : "5+",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210118110628.3.001.json",
+               "title" : "28分以上前",
+               "quakeID" : "20210119130000",
+               "quakeTime" : 1611548129 
+            }
+            
+         ]
+      },
+      {
+         "title" : "2021年 1月17日(日)",
+         "list" : [
+            {
+               "dataType" : 3,
+               "spotCode" : "674",
+               "spotName" : "紀伊水道",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210117201715.3.001.json",
+               "title" : "紀伊水道",
+               "quakeID" : "20210117201715",
+               "quakeTime" : 1610882220
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "791",
+               "spotName" : "日向灘",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210117182424.3.001.json",
+               "title" : "日向灘",
+               "quakeID" : "20210117182424",
+               "quakeTime" : 1610875440
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "431",
+               "spotName" : "岐阜県美濃東部",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210117124211.3.001.json",
+               "title" : "岐阜県美濃東部",
+               "quakeID" : "20210117124211",
+               "quakeTime" : 1610854920
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "787",
+               "spotName" : "鹿児島湾",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210117063252.3.001.json",
+               "title" : "鹿児島湾",
+               "quakeID" : "20210117063252",
+               "quakeTime" : 1610832720
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "146",
+               "spotName" : "胆振地方中東部",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210117023923.3.001.json",
+               "title" : "胆振地方中東部",
+               "quakeID" : "20210117023923",
+               "quakeTime" : 1610818740
+            }
+         ]
+      },
+      {
+         "title" : "2021年 1月16日(土)",
+         "list" : [
+            {
+               "dataType" : 3,
+               "spotCode" : "482",
+               "spotName" : "三宅島近海",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210116205525.3.001.json",
+               "title" : "三宅島近海",
+               "quakeID" : "20210116205525",
+               "quakeTime" : 1610798100
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "421",
+               "spotName" : "長野県中部",
+               "maxRank" : "2",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210116192606.3.001.json",
+               "title" : "長野県中部",
+               "quakeID" : "20210116192606",
+               "quakeTime" : 1610792760
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "286",
+               "spotName" : "岩手県沖",
+               "maxRank" : "2",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210116170848.3.001.json",
+               "title" : "岩手県沖",
+               "quakeID" : "20210116170848",
+               "quakeTime" : 1610784480
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "787",
+               "spotName" : "鹿児島湾",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210116133646.3.001.json",
+               "title" : "鹿児島湾",
+               "quakeID" : "20210116133646",
+               "quakeTime" : 1610771760
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "420",
+               "spotName" : "長野県北部",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210116120134.3.001.json",
+               "title" : "長野県北部",
+               "quakeID" : "20210116120134",
+               "quakeTime" : 1610766060
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "420",
+               "spotName" : "長野県北部",
+               "maxRank" : "2",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210116081937.3.001.json",
+               "title" : "長野県北部",
+               "quakeID" : "20210116081937",
+               "quakeTime" : 1610752740
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "191",
+               "spotName" : "十勝沖",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210116051020.3.001.json",
+               "title" : "十勝沖",
+               "quakeID" : "20210116051020",
+               "quakeTime" : 1610741400
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "156",
+               "spotName" : "十勝地方中部",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210116020429.3.001.json",
+               "title" : "十勝地方中部",
+               "quakeID" : "20210116020429",
+               "quakeTime" : 1610730240
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "853",
+               "spotName" : "宮古島近海",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210116004024.3.001.json",
+               "title" : "宮古島近海",
+               "quakeID" : "20210116004024",
+               "quakeTime" : 1610725200
+            }
+         ]
+      },
+      {
+         "title" : "2021年 1月15日(金)",
+         "list" : [
+            {
+               "dataType" : 3,
+               "spotCode" : "469",
+               "spotName" : "三重県南東沖",
+               "maxRank" : "2",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210115223904.3.001.json",
+               "title" : "三重県南東沖",
+               "quakeID" : "20210115223904",
+               "quakeTime" : 1610717940
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "300",
+               "spotName" : "茨城県北部",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210115221618.3.001.json",
+               "title" : "茨城県北部",
+               "quakeID" : "20210115221618",
+               "quakeTime" : 1610716560
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "157",
+               "spotName" : "十勝地方南部",
+               "maxRank" : "2",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210115174015.3.001.json",
+               "title" : "十勝地方南部",
+               "quakeID" : "20210115174015",
+               "quakeTime" : 1610700000
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "793",
+               "spotName" : "奄美大島近海",
+               "maxRank" : "2",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210115163831.3.001.json",
+               "title" : "奄美大島近海",
+               "quakeID" : "20210115163831",
+               "quakeTime" : 1610696280
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "476",
+               "spotName" : "八丈島近海",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210115140418.3.001.json",
+               "title" : "八丈島近海",
+               "quakeID" : "20210115140418",
+               "quakeTime" : 1610687040
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "289",
+               "spotName" : "福島県沖",
+               "maxRank" : "2",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210115125937.3.001.json",
+               "title" : "福島県沖",
+               "quakeID" : "20210115125937",
+               "quakeTime" : 1610683140
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "498",
+               "spotName" : "佐渡付近",
+               "maxRank" : "2",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210115111635.3.001.json",
+               "title" : "佐渡付近",
+               "quakeID" : "20210115111635",
+               "quakeTime" : 1610676960
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "859",
+               "spotName" : "宮古島北西沖",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210115012832.3.001.json",
+               "title" : "宮古島北西沖",
+               "quakeID" : "20210115012832",
+               "quakeTime" : 1610641680
+            }
+         ]
+      },
+      {
+         "title" : "2021年 1月14日(木)",
+         "list" : [
+            {
+               "dataType" : 3,
+               "spotCode" : "787",
+               "spotName" : "鹿児島湾",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210114220625.3.001.json",
+               "title" : "鹿児島湾",
+               "quakeID" : "20210114220625",
+               "quakeTime" : 1610629560
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "471",
+               "spotName" : "茨城県沖",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210114124811.3.001.json",
+               "title" : "茨城県沖",
+               "quakeID" : "20210114124811",
+               "quakeTime" : 1610596080
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "787",
+               "spotName" : "鹿児島湾",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210114092949.3.001.json",
+               "title" : "鹿児島湾",
+               "quakeID" : "20210114092949",
+               "quakeTime" : 1610584140
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "287",
+               "spotName" : "宮城県沖",
+               "maxRank" : "2",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210114005749.3.001.json",
+               "title" : "宮城県沖",
+               "quakeID" : "20210114005749",
+               "quakeTime" : 1610553420
+            }
+         ]
+      },
+      {
+         "title" : "2021年 1月13日(水)",
+         "list" : [
+            {
+               "dataType" : 3,
+               "spotCode" : "421",
+               "spotName" : "長野県中部",
+               "maxRank" : "2",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210113192911.3.001.json",
+               "title" : "長野県中部",
+               "quakeID" : "20210113192911",
+               "quakeTime" : 1610533740
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "289",
+               "spotName" : "福島県沖",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210113134532.3.001.json",
+               "title" : "福島県沖",
+               "quakeID" : "20210113134532",
+               "quakeTime" : 1610513100
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "252",
+               "spotName" : "福島県会津",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210113090750.3.001.json",
+               "title" : "福島県会津",
+               "quakeID" : "20210113090750",
+               "quakeTime" : 1610496420
+            }
+         ]
+      },
+      {
+         "title" : "2021年 1月12日(火)",
+         "list" : [
+            {
+               "dataType" : 3,
+               "spotCode" : "181",
+               "spotName" : "北海道西方沖",
+               "maxRank" : "2",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210112114013.3.001.json",
+               "title" : "北海道西方沖",
+               "quakeID" : "20210112114013",
+               "quakeTime" : 1610419200
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "632",
+               "spotName" : "高知県西部",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202101/20210112110724.3.001.json",
+               "title" : "高知県西部",
+               "quakeID" : "20210112110724",
+               "quakeTime" : 1610417220
+            }
+         ]
+      }
+   ]
+}
