@@ -1,0 +1,11 @@
+{
+        "JCODE": "40223",
+        "JCODENAME": "hoge市",
+        "lat": 33.732735,
+        "lon": 130.466511,
+        "rainbow": {
+                        "possibility": 0,
+                        "direction": 359,
+                        "shape": 1
+         }
+}
