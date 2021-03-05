@@ -3,9 +3,5 @@
         "JCODENAME": "hoge市",
         "lat": 33.732735,
         "lon": 130.466511,
-        "rainbow": {
-                        "possibility": 1,
-                        "direction": 359,
-                        "shape": 2
-         }
+        "rainbow": { }
 }
