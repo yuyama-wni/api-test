@@ -2091,9 +2091,9 @@
 					,
 				
 					{
-					"txt":"ひと目でわかる傘マップ　4月1日(木)",
+					"txt":"地震テスト（IDなし）",
 					"img":"https://smtgvs.cdn.weathernews.jp//s/topics/thumb/article/202104010015_top_img_A_320x240.jpg?1617226906",
-					"url":"https://weathernews.jp/s/topics/202104/010015/?fm=under_pinpoint2",
+					"url":"weathernews://weathernews.jp/quake",
 					"edit_tm":1617225900
 					}
 					,
