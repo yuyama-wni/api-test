@@ -1,0 +1,324 @@
+{
+   "list" : [
+      {
+         "title" : "2021年 5月 1日(土)",
+         "list" : [
+            {
+               "dataType" : 3,
+               "spotCode" : "287",
+               "spotName" : "宮城県沖",
+               "maxRank" : "5+",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202105/20210501102735.3.002.json",
+               "title" : "宮城県沖",
+               "quakeID" : "20210501102735",
+               "quakeTime" : 1619832420
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "213",
+               "spotName" : "岩手県内陸南部",
+               "maxRank" : "2",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202105/20210501091026.3.001.json",
+               "title" : "岩手県内陸南部",
+               "quakeID" : "20210501091026",
+               "quakeTime" : 1619827800
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "146",
+               "spotName" : "胆振地方中東部",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202105/20210501061446.3.001.json",
+               "title" : "胆振地方中東部",
+               "quakeID" : "20210501061446",
+               "quakeTime" : 1619817240
+            }
+         ]
+      },
+      {
+         "title" : "2021年 4月30日(金)",
+         "list" : [
+            {
+               "dataType" : 3,
+               "spotCode" : "286",
+               "spotName" : "岩手県沖",
+               "maxRank" : "2",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210430154025.3.001.json",
+               "title" : "岩手県沖",
+               "quakeID" : "20210430154025",
+               "quakeTime" : 1619764800
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "590",
+               "spotName" : "広島県北部",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210430134934.3.001.json",
+               "title" : "広島県北部",
+               "quakeID" : "20210430134934",
+               "quakeTime" : 1619758140
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "590",
+               "spotName" : "広島県北部",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210430114612.3.001.json",
+               "title" : "広島県北部",
+               "quakeID" : "20210430114612",
+               "quakeTime" : 1619750760
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "161",
+               "spotName" : "釧路地方中南部",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210430084553.3.001.json",
+               "title" : "釧路地方中南部",
+               "quakeID" : "20210430084553",
+               "quakeTime" : 1619739900
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "480",
+               "spotName" : "伊豆大島近海",
+               "maxRank" : "3",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210430064729.3.001.json",
+               "title" : "伊豆大島近海",
+               "quakeID" : "20210430064729",
+               "quakeTime" : 1619732820
+            }
+         ]
+      },
+      {
+         "title" : "2021年 4月29日(木)",
+         "list" : [
+            {
+               "dataType" : 3,
+               "spotCode" : "590",
+               "spotName" : "広島県北部",
+               "maxRank" : "2",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210429191846.3.001.json",
+               "title" : "広島県北部",
+               "quakeID" : "20210429191846",
+               "quakeTime" : 1619691480
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "285",
+               "spotName" : "青森県東方沖",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210429030352.3.001.json",
+               "title" : "青森県東方沖",
+               "quakeID" : "20210429030352",
+               "quakeTime" : 1619632980
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "741",
+               "spotName" : "熊本県熊本地方",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210429022011.3.001.json",
+               "title" : "熊本県熊本地方",
+               "quakeID" : "20210429022011",
+               "quakeTime" : 1619630400
+            }
+         ]
+      },
+      {
+         "title" : "2021年 4月28日(水)",
+         "list" : [
+            {
+               "dataType" : 3,
+               "spotCode" : "741",
+               "spotName" : "熊本県熊本地方",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210428090404.3.001.json",
+               "title" : "熊本県熊本地方",
+               "quakeID" : "20210428090404",
+               "quakeTime" : 1619568240
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "916",
+               "spotName" : "小笠原諸島西方沖",
+               "maxRank" : "2",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210428051803.3.001.json",
+               "title" : "小笠原諸島西方沖",
+               "quakeID" : "20210428051803",
+               "quakeTime" : 1619554680
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "300",
+               "spotName" : "茨城県北部",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210428051202.3.001.json",
+               "title" : "茨城県北部",
+               "quakeID" : "20210428051202",
+               "quakeTime" : 1619554320
+            }
+         ]
+      },
+      {
+         "title" : "2021年 4月27日(火)",
+         "list" : [
+            {
+               "dataType" : 3,
+               "spotCode" : "480",
+               "spotName" : "伊豆大島近海",
+               "maxRank" : "2",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210427153021.3.001.json",
+               "title" : "伊豆大島近海",
+               "quakeID" : "20210427153021",
+               "quakeTime" : 1619505000
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "480",
+               "spotName" : "伊豆大島近海",
+               "maxRank" : "2",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210427102421.3.001.json",
+               "title" : "伊豆大島近海",
+               "quakeID" : "20210427102421",
+               "quakeTime" : 1619486640
+            }
+         ]
+      },
+      {
+         "title" : "2021年 4月26日(月)",
+         "list" : [
+            {
+               "dataType" : 3,
+               "spotCode" : "391",
+               "spotName" : "石川県加賀地方",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210426211314.3.001.json",
+               "title" : "石川県加賀地方",
+               "quakeID" : "20210426211314",
+               "quakeTime" : 1619439180
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "391",
+               "spotName" : "石川県加賀地方",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210426211158.3.001.json",
+               "title" : "石川県加賀地方",
+               "quakeID" : "20210426211158",
+               "quakeTime" : 1619439060
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "850",
+               "spotName" : "沖縄本島近海",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210426163959.3.001.json",
+               "title" : "沖縄本島近海",
+               "quakeID" : "20210426163959",
+               "quakeTime" : 1619422740
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "442",
+               "spotName" : "静岡県中部",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210426131750.3.001.json",
+               "title" : "静岡県中部",
+               "quakeID" : "20210426131750",
+               "quakeTime" : 1619410620
+            }
+         ]
+      },
+      {
+         "title" : "2021年 4月25日(日)",
+         "list" : [
+            {
+               "dataType" : 3,
+               "spotCode" : "222",
+               "spotName" : "宮城県中部",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210425164325.3.001.json",
+               "title" : "宮城県中部",
+               "quakeID" : "20210425164325",
+               "quakeTime" : 1619336580
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "480",
+               "spotName" : "伊豆大島近海",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210425002813.3.001.json",
+               "title" : "伊豆大島近海",
+               "quakeID" : "20210425002813",
+               "quakeTime" : 1619278080
+            }
+         ]
+      },
+      {
+         "title" : "2021年 4月24日(土)",
+         "list" : [
+            {
+               "dataType" : 3,
+               "spotCode" : "480",
+               "spotName" : "伊豆大島近海",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210424220414.3.001.json",
+               "title" : "伊豆大島近海",
+               "quakeID" : "20210424220414",
+               "quakeTime" : 1619269440
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "420",
+               "spotName" : "長野県北部",
+               "maxRank" : "2",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210424204303.3.001.json",
+               "title" : "長野県北部",
+               "quakeID" : "20210424204303",
+               "quakeTime" : 1619264520
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "420",
+               "spotName" : "長野県北部",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210424203620.3.001.json",
+               "title" : "長野県北部",
+               "quakeID" : "20210424203620",
+               "quakeTime" : 1619264160
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "286",
+               "spotName" : "岩手県沖",
+               "maxRank" : "3",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210424183521.3.001.json",
+               "title" : "岩手県沖",
+               "quakeID" : "20210424183521",
+               "quakeTime" : 1619256900
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "300",
+               "spotName" : "茨城県北部",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210424175917.3.001.json",
+               "title" : "茨城県北部",
+               "quakeID" : "20210424175917",
+               "quakeTime" : 1619254740
+            },
+            {
+               "dataType" : 3,
+               "spotCode" : "289",
+               "spotName" : "福島県沖",
+               "maxRank" : "1",
+               "url" : "https://tpf.weathernews.jp/sp/quake/json/202104/20210424154745.3.001.json",
+               "title" : "福島県沖",
+               "quakeID" : "20210424154745",
+               "quakeTime" : 1619246820
+            }
+         ]
+      }
+   ]
+}
