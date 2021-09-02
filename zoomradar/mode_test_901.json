@@ -11,7 +11,7 @@
       "bg_color": "#2375FF",
       "font_color": "#ffffff",
       "font_size": 18.0,
-      "url": "https://yuyama-wni.github.io/api-test/zoomradar/airadar_1620.json",
+      "url": "https://raw.githubusercontent.com/yuyama-wni/api-test/master/zoomradar/airadar_1621.json",
       "img": "https://smtgvs.weathernews.jp/ip/zoomradar/icon/tabicon_radar@2x.png",
       "img_white": "https://smtgvs.weathernews.jp/ip/zoomradar/icon/tabicon_radar_white@2x.png",
       "legend": "https://tile.weathernews.jp/nowcast/res/legend_zoomradar_rain@2x.png"
