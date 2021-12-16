@@ -132,7 +132,7 @@
 
     {
     "mode": "koyo",
-    "title": "紅葉色づき",
+    "title": "紅葉テスト",
     "data_type": "tile",
     "scale_format": "simple",
     "date_format": "M月d日(E)",
@@ -141,7 +141,7 @@
     "bg_color": "#E04500",
     "font_color": "#ffffff",
     "font_size": 18,
-    "url": "http://withradar.wni.co.jp/json/koyo.json",
+    "url": "http://pt-apns600-vmg.wni.co.jp/android/5220/koyo_dummy_5220.json",
     "img":"https://smtgvs.weathernews.jp/ip/zoomradar/icon/tabicon_koyo@2x.png",
     "img_white":"https://smtgvs.weathernews.jp/ip/zoomradar/icon/tabicon_koyo_white@2x.png",
     "legend": "https://tile.weathernews.jp/koyo/res/legend_koyo@2x.png"
