@@ -1,0 +1,600 @@
+
+{																										
+	"from_area": 0,																									
+	"JCODE": "40223",																									
+	"JCODENAME": "古賀市",																									
+	"update_time": 1644403800,																									
+	"areacode": "JP.MNKT",																									
+	"lat": 33.7327333,																									
+	"lon": 130.46651,																									
+	"timezone": "Asia/Tokyo",																									
+	"quake_ch": 0,																									
+	"location_info": {																									
+		"areacode": "JP.MNKT",																								
+		"r1": "",																								
+		"r2": "福岡県",																								
+		"r3": "古賀市",																								
+		"r4": "天神",																								
+		"postcode": "8113101",																								
+		"area": "fukuoka",																								
+		"point_name": "古賀市天神"																								
+	},																									
+	"catch": {},																									
+	"srf_attr": {																									
+		"time": 	1644418800	,																						
+		"stride": 3600,																								
+		"pref": "fukuoka"																								
+	},																									
+	"srf": [																									
+		{"time":	1644418800	,"WX":	100	,"PREC":	1	,"TEMP":	0	,"WNDSPD":	-1	,"WNDDIR": 1,	"RHUM": 0,	"ARPRSS": 1000},												
+		{"time":	1644422400	,"WX":	200	,"PREC":	2	,"TEMP":	0	,"WNDSPD":	0.1	,"WNDDIR": 2,	"RHUM": 0,	"ARPRSS": 1000},												
+		{"time":	1644426000	,"WX":	300	,"PREC":	3	,"TEMP":	0	,"WNDSPD":	2	,"WNDDIR": 3,	"RHUM": 0,	"ARPRSS": 1000},												
+		{"time":	1644429600	,"WX":	400	,"PREC":	4	,"TEMP":	0	,"WNDSPD":	4	,"WNDDIR": 4,	"RHUM": 0,	"ARPRSS": 1000},												
+		{"time":	1644433200	,"WX":	430	,"PREC":	4	,"TEMP":	3	,"WNDSPD":	6	,"WNDDIR": 5,	"RHUM": 0,	"ARPRSS": 1000},												
+		{"time":	1644436800	,"WX":	500	,"PREC":	5	,"TEMP":	0	,"WNDSPD":	8	,"WNDDIR": 6,	"RHUM": 0,	"ARPRSS": 1000},												
+		{"time":	1644440400	,"WX":	550	,"PREC":	5	,"TEMP":	5	,"WNDSPD":	10	,"WNDDIR": 7,	"RHUM": 0,	"ARPRSS": 1000},												
+		{"time":	1644444000	,"WX":	600	,"PREC":	6	,"TEMP":	0	,"WNDSPD":	12	,"WNDDIR": 8,	"RHUM": 0,	"ARPRSS": 1000},												
+		{"time":	1644447600	,"WX":	650	,"PREC":	6	,"TEMP":	5	,"WNDSPD":	14	,"WNDDIR": 9,	"RHUM": 0,	"ARPRSS": 1000},												
+		{"time":	1644451200	,"WX":	800	,"PREC":	8	,"TEMP":	0	,"WNDSPD":	16	,"WNDDIR": 10,	"RHUM": 0,	"ARPRSS": 1000},												
+		{"time":	1644454800	,"WX":	850	,"PREC":	8	,"TEMP":	5	,"WNDSPD":	18	,"WNDDIR": 11,	"RHUM": 0,	"ARPRSS": 1000},												
+		{"time":	1644458400	,"WX":	950	,"PREC":	9	,"TEMP":	5	,"WNDSPD":	20	,"WNDDIR": 12,	"RHUM": 0,	"ARPRSS": 1000},												
+		{"time":	1644462000	,"WX":	999	,"PREC":	9	,"TEMP":	9	,"WNDSPD":	22	,"WNDDIR": 13,	"RHUM": 0,	"ARPRSS": 1000}												
+	],																									
+	"srftitle": "スッキリしない空　雨具をお伴に",																									
+	"srfcomment": "明日は雲が広がり、にわか雨や雪の可能性があります。雨具をお伴に。ただ、昼過ぎ以降は日差しが届くこともありそうです。昼間も寒いため、万全な防寒を。",																									
+	"mrf_attr": {																									
+		"time": 	1643468400	,																						
+		"stride": 	86400																							
+	},																									
+	"mrf": [																									
+		{"holiday": 0	,"WX":	999	,"MAXT":	-1	,	"MINT":	-1	,	"PREC":	-1	,	"POP":	-999	},										
+		{"holiday": 0	,"WX":	999	,"MAXT":	-1	,	"MINT":	-1	,	"PREC":	-1	,	"POP":	-999	},										
+		{"holiday": 0	,"WX":	999	,"MAXT":	-1	,	"MINT":	-1	,	"PREC":	-1	,	"POP":	-999	},										
+		{"holiday": 0	,"WX":	999	,"MAXT":	-1	,	"MINT":	-1	,	"PREC":	-1	,	"POP":	-999	},										
+		{"holiday": 0	,"WX":	999	,"MAXT":	-1	,	"MINT":	-1	,	"PREC":	-1	,	"POP":	-999	},										
+		{"holiday": 0	,"WX":	999	,"MAXT":	-1	,	"MINT":	-1	,	"PREC":	-1	,	"POP":	-999	},										
+		{"holiday": 0	,"WX":	999	,"MAXT":	-1	,	"MINT":	-1	,	"PREC":	-1	,	"POP":	-999	},										
+		{"holiday": 0	,"WX":	999	,"MAXT":	-1	,	"MINT":	-1	,	"PREC":	-1	,	"POP":	-999	},										
+		{"holiday": 0	,"WX":	999	,"MAXT":	-1	,	"MINT":	-1	,	"PREC":	-1	,	"POP":	-999	},										
+		{"holiday": 0	,"WX":	999	,"MAXT":	-1	,	"MINT":	-1	,	"PREC":	-1	,	"POP":	-999	},										
+		{"holiday": 0	,"WX":	999	,"MAXT":	-1	,	"MINT":	-1	,	"PREC":	-1	,	"POP":	-999	},										
+		{"holiday": 0	,"WX":	100	,"MAXT":	1	,	"MINT":	0	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	101	,"MAXT":	1	,	"MINT":	0	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	102	,"MAXT":	1	,	"MINT":	0	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	103	,"MAXT":	1	,	"MINT":	0	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	104	,"MAXT":	1	,	"MINT":	0	,	"PREC":	-1	,	"POP":	4	},										
+		{"holiday": 0	,"WX":	105	,"MAXT":	1	,	"MINT":	0	,	"PREC":	-1	,	"POP":	5	},										
+		{"holiday": 0	,"WX":	106	,"MAXT":	1	,	"MINT":	0	,	"PREC":	-1	,	"POP":	6	},										
+		{"holiday": 0	,"WX":	107	,"MAXT":	1	,	"MINT":	0	,	"PREC":	-1	,	"POP":	7	},										
+		{"holiday": 0	,"WX":	108	,"MAXT":	1	,	"MINT":	0	,	"PREC":	-1	,	"POP":	8	},										
+		{"holiday": 0	,"WX":	110	,"MAXT":	1	,	"MINT":	1	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	111	,"MAXT":	1	,	"MINT":	1	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	112	,"MAXT":	1	,	"MINT":	1	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	113	,"MAXT":	1	,	"MINT":	1	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	114	,"MAXT":	1	,	"MINT":	1	,	"PREC":	-1	,	"POP":	4	},										
+		{"holiday": 0	,"WX":	115	,"MAXT":	1	,	"MINT":	1	,	"PREC":	-1	,	"POP":	5	},										
+		{"holiday": 0	,"WX":	116	,"MAXT":	1	,	"MINT":	1	,	"PREC":	-1	,	"POP":	6	},										
+		{"holiday": 0	,"WX":	117	,"MAXT":	1	,	"MINT":	1	,	"PREC":	-1	,	"POP":	7	},										
+		{"holiday": 0	,"WX":	118	,"MAXT":	1	,	"MINT":	1	,	"PREC":	-1	,	"POP":	8	},										
+		{"holiday": 0	,"WX":	119	,"MAXT":	1	,	"MINT":	1	,	"PREC":	-1	,	"POP":	9	},										
+		{"holiday": 0	,"WX":	120	,"MAXT":	1	,	"MINT":	2	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	121	,"MAXT":	1	,	"MINT":	2	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	122	,"MAXT":	1	,	"MINT":	2	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	123	,"MAXT":	1	,	"MINT":	2	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	124	,"MAXT":	1	,	"MINT":	2	,	"PREC":	-1	,	"POP":	4	},										
+		{"holiday": 0	,"WX":	125	,"MAXT":	1	,	"MINT":	2	,	"PREC":	-1	,	"POP":	5	},										
+		{"holiday": 0	,"WX":	126	,"MAXT":	1	,	"MINT":	2	,	"PREC":	-1	,	"POP":	6	},										
+		{"holiday": 0	,"WX":	127	,"MAXT":	1	,	"MINT":	2	,	"PREC":	-1	,	"POP":	7	},										
+		{"holiday": 0	,"WX":	128	,"MAXT":	1	,	"MINT":	2	,	"PREC":	-1	,	"POP":	8	},										
+		{"holiday": 0	,"WX":	129	,"MAXT":	1	,	"MINT":	2	,	"PREC":	-1	,	"POP":	9	},										
+		{"holiday": 0	,"WX":	130	,"MAXT":	1	,	"MINT":	3	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	131	,"MAXT":	1	,	"MINT":	3	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	132	,"MAXT":	1	,	"MINT":	3	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	140	,"MAXT":	1	,	"MINT":	4	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	160	,"MAXT":	1	,	"MINT":	6	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	170	,"MAXT":	1	,	"MINT":	7	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	181	,"MAXT":	1	,	"MINT":	8	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	200	,"MAXT":	2	,	"MINT":	0	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	201	,"MAXT":	2	,	"MINT":	0	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	202	,"MAXT":	2	,	"MINT":	0	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	203	,"MAXT":	2	,	"MINT":	0	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	204	,"MAXT":	2	,	"MINT":	0	,	"PREC":	-1	,	"POP":	4	},										
+		{"holiday": 0	,"WX":	205	,"MAXT":	2	,	"MINT":	0	,	"PREC":	-1	,	"POP":	5	},										
+		{"holiday": 0	,"WX":	206	,"MAXT":	2	,	"MINT":	0	,	"PREC":	-1	,	"POP":	6	},										
+		{"holiday": 0	,"WX":	207	,"MAXT":	2	,	"MINT":	0	,	"PREC":	-1	,	"POP":	7	},										
+		{"holiday": 0	,"WX":	208	,"MAXT":	2	,	"MINT":	0	,	"PREC":	-1	,	"POP":	8	},										
+		{"holiday": 0	,"WX":	209	,"MAXT":	2	,	"MINT":	0	,	"PREC":	-1	,	"POP":	9	},										
+		{"holiday": 0	,"WX":	210	,"MAXT":	2	,	"MINT":	1	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	211	,"MAXT":	2	,	"MINT":	1	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	212	,"MAXT":	2	,	"MINT":	1	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	213	,"MAXT":	2	,	"MINT":	1	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	214	,"MAXT":	2	,	"MINT":	1	,	"PREC":	-1	,	"POP":	4	},										
+		{"holiday": 0	,"WX":	215	,"MAXT":	2	,	"MINT":	1	,	"PREC":	-1	,	"POP":	5	},										
+		{"holiday": 0	,"WX":	216	,"MAXT":	2	,	"MINT":	1	,	"PREC":	-1	,	"POP":	6	},										
+		{"holiday": 0	,"WX":	217	,"MAXT":	2	,	"MINT":	1	,	"PREC":	-1	,	"POP":	7	},										
+		{"holiday": 0	,"WX":	218	,"MAXT":	2	,	"MINT":	1	,	"PREC":	-1	,	"POP":	8	},										
+		{"holiday": 0	,"WX":	219	,"MAXT":	2	,	"MINT":	1	,	"PREC":	-1	,	"POP":	9	},										
+		{"holiday": 0	,"WX":	220	,"MAXT":	2	,	"MINT":	2	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	221	,"MAXT":	2	,	"MINT":	2	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	222	,"MAXT":	2	,	"MINT":	2	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	223	,"MAXT":	2	,	"MINT":	2	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	224	,"MAXT":	2	,	"MINT":	2	,	"PREC":	-1	,	"POP":	4	},										
+		{"holiday": 0	,"WX":	225	,"MAXT":	2	,	"MINT":	2	,	"PREC":	-1	,	"POP":	5	},										
+		{"holiday": 0	,"WX":	226	,"MAXT":	2	,	"MINT":	2	,	"PREC":	-1	,	"POP":	6	},										
+		{"holiday": 0	,"WX":	227	,"MAXT":	2	,	"MINT":	2	,	"PREC":	-1	,	"POP":	7	},										
+		{"holiday": 0	,"WX":	228	,"MAXT":	2	,	"MINT":	2	,	"PREC":	-1	,	"POP":	8	},										
+		{"holiday": 0	,"WX":	229	,"MAXT":	2	,	"MINT":	2	,	"PREC":	-1	,	"POP":	9	},										
+		{"holiday": 0	,"WX":	230	,"MAXT":	2	,	"MINT":	3	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	231	,"MAXT":	2	,	"MINT":	3	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	240	,"MAXT":	2	,	"MINT":	4	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	250	,"MAXT":	2	,	"MINT":	5	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	260	,"MAXT":	2	,	"MINT":	6	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	270	,"MAXT":	2	,	"MINT":	7	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	281	,"MAXT":	2	,	"MINT":	8	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	300	,"MAXT":	3	,	"MINT":	0	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	301	,"MAXT":	3	,	"MINT":	0	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	302	,"MAXT":	3	,	"MINT":	0	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	303	,"MAXT":	3	,	"MINT":	0	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	304	,"MAXT":	3	,	"MINT":	0	,	"PREC":	-1	,	"POP":	4	},										
+		{"holiday": 0	,"WX":	306	,"MAXT":	3	,	"MINT":	0	,	"PREC":	-1	,	"POP":	6	},										
+		{"holiday": 0	,"WX":	308	,"MAXT":	3	,	"MINT":	0	,	"PREC":	-1	,	"POP":	8	},										
+		{"holiday": 0	,"WX":	309	,"MAXT":	3	,	"MINT":	0	,	"PREC":	-1	,	"POP":	9	},										
+		{"holiday": 0	,"WX":	311	,"MAXT":	3	,	"MINT":	1	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	313	,"MAXT":	3	,	"MINT":	1	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	314	,"MAXT":	3	,	"MINT":	1	,	"PREC":	-1	,	"POP":	4	},										
+		{"holiday": 0	,"WX":	315	,"MAXT":	3	,	"MINT":	1	,	"PREC":	-1	,	"POP":	5	},										
+		{"holiday": 0	,"WX":	316	,"MAXT":	3	,	"MINT":	1	,	"PREC":	-1	,	"POP":	6	},										
+		{"holiday": 0	,"WX":	317	,"MAXT":	3	,	"MINT":	1	,	"PREC":	-1	,	"POP":	7	},										
+		{"holiday": 0	,"WX":	320	,"MAXT":	3	,	"MINT":	2	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	321	,"MAXT":	3	,	"MINT":	2	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	322	,"MAXT":	3	,	"MINT":	2	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	323	,"MAXT":	3	,	"MINT":	2	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	324	,"MAXT":	3	,	"MINT":	2	,	"PREC":	-1	,	"POP":	4	},										
+		{"holiday": 0	,"WX":	325	,"MAXT":	3	,	"MINT":	2	,	"PREC":	-1	,	"POP":	5	},										
+		{"holiday": 0	,"WX":	326	,"MAXT":	3	,	"MINT":	2	,	"PREC":	-1	,	"POP":	6	},										
+		{"holiday": 0	,"WX":	327	,"MAXT":	3	,	"MINT":	2	,	"PREC":	-1	,	"POP":	7	},										
+		{"holiday": 0	,"WX":	328	,"MAXT":	3	,	"MINT":	2	,	"PREC":	-1	,	"POP":	8	},										
+		{"holiday": 0	,"WX":	329	,"MAXT":	3	,	"MINT":	2	,	"PREC":	-1	,	"POP":	9	},										
+		{"holiday": 0	,"WX":	340	,"MAXT":	3	,	"MINT":	4	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	350	,"MAXT":	3	,	"MINT":	5	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	361	,"MAXT":	3	,	"MINT":	6	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	371	,"MAXT":	3	,	"MINT":	7	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	400	,"MAXT":	4	,	"MINT":	0	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	401	,"MAXT":	4	,	"MINT":	0	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	402	,"MAXT":	4	,	"MINT":	0	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	403	,"MAXT":	4	,	"MINT":	0	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	405	,"MAXT":	4	,	"MINT":	0	,	"PREC":	-1	,	"POP":	5	},										
+		{"holiday": 0	,"WX":	406	,"MAXT":	4	,	"MINT":	0	,	"PREC":	-1	,	"POP":	6	},										
+		{"holiday": 0	,"WX":	407	,"MAXT":	4	,	"MINT":	0	,	"PREC":	-1	,	"POP":	7	},										
+		{"holiday": 0	,"WX":	409	,"MAXT":	4	,	"MINT":	0	,	"PREC":	-1	,	"POP":	9	},										
+		{"holiday": 0	,"WX":	411	,"MAXT":	4	,	"MINT":	1	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	413	,"MAXT":	4	,	"MINT":	1	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	414	,"MAXT":	4	,	"MINT":	1	,	"PREC":	-1	,	"POP":	4	},										
+		{"holiday": 0	,"WX":	420	,"MAXT":	4	,	"MINT":	2	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	421	,"MAXT":	4	,	"MINT":	2	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	422	,"MAXT":	4	,	"MINT":	2	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	423	,"MAXT":	4	,	"MINT":	2	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	424	,"MAXT":	4	,	"MINT":	2	,	"PREC":	-1	,	"POP":	4	},										
+		{"holiday": 0	,"WX":	425	,"MAXT":	4	,	"MINT":	2	,	"PREC":	-1	,	"POP":	5	},										
+		{"holiday": 0	,"WX":	426	,"MAXT":	4	,	"MINT":	2	,	"PREC":	-1	,	"POP":	6	},										
+		{"holiday": 0	,"WX":	427	,"MAXT":	4	,	"MINT":	2	,	"PREC":	-1	,	"POP":	7	},										
+		{"holiday": 0	,"WX":	430	,"MAXT":	4	,	"MINT":	3	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	450	,"MAXT":	4	,	"MINT":	5	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	500	,"MAXT":	5	,	"MINT":	0	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	550	,"MAXT":	5	,	"MINT":	5	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	552	,"MAXT":	5	,	"MINT":	5	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	553	,"MAXT":	5	,	"MINT":	5	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	558	,"MAXT":	5	,	"MINT":	5	,	"PREC":	-1	,	"POP":	8	},										
+		{"holiday": 0	,"WX":	562	,"MAXT":	5	,	"MINT":	6	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	563	,"MAXT":	5	,	"MINT":	6	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	568	,"MAXT":	5	,	"MINT":	6	,	"PREC":	-1	,	"POP":	8	},										
+		{"holiday": 0	,"WX":	572	,"MAXT":	5	,	"MINT":	7	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	573	,"MAXT":	5	,	"MINT":	7	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	582	,"MAXT":	5	,	"MINT":	8	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	583	,"MAXT":	5	,	"MINT":	8	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	600	,"MAXT":	6	,	"MINT":	0	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	650	,"MAXT":	6	,	"MINT":	5	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	800	,"MAXT":	8	,	"MINT":	0	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	850	,"MAXT":	8	,	"MINT":	5	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	851	,"MAXT":	8	,	"MINT":	5	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	852	,"MAXT":	8	,	"MINT":	5	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	853	,"MAXT":	8	,	"MINT":	5	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	854	,"MAXT":	8	,	"MINT":	5	,	"PREC":	-1	,	"POP":	4	},										
+		{"holiday": 0	,"WX":	855	,"MAXT":	8	,	"MINT":	5	,	"PREC":	-1	,	"POP":	5	},										
+		{"holiday": 0	,"WX":	859	,"MAXT":	8	,	"MINT":	5	,	"PREC":	-1	,	"POP":	9	},										
+		{"holiday": 0	,"WX":	861	,"MAXT":	8	,	"MINT":	6	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	862	,"MAXT":	8	,	"MINT":	6	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	863	,"MAXT":	8	,	"MINT":	6	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	864	,"MAXT":	8	,	"MINT":	6	,	"PREC":	-1	,	"POP":	4	},										
+		{"holiday": 0	,"WX":	865	,"MAXT":	8	,	"MINT":	6	,	"PREC":	-1	,	"POP":	5	},										
+		{"holiday": 0	,"WX":	869	,"MAXT":	8	,	"MINT":	6	,	"PREC":	-1	,	"POP":	9	},										
+		{"holiday": 0	,"WX":	871	,"MAXT":	8	,	"MINT":	7	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	872	,"MAXT":	8	,	"MINT":	7	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	873	,"MAXT":	8	,	"MINT":	7	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	874	,"MAXT":	8	,	"MINT":	7	,	"PREC":	-1	,	"POP":	4	},										
+		{"holiday": 0	,"WX":	881	,"MAXT":	8	,	"MINT":	8	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	882	,"MAXT":	8	,	"MINT":	8	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	883	,"MAXT":	8	,	"MINT":	8	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	884	,"MAXT":	8	,	"MINT":	8	,	"PREC":	-1	,	"POP":	4	},										
+		{"holiday": 0	,"WX":	950	,"MAXT":	9	,	"MINT":	5	,	"PREC":	-1	,	"POP":	0	},										
+		{"holiday": 0	,"WX":	951	,"MAXT":	9	,	"MINT":	5	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	952	,"MAXT":	9	,	"MINT":	5	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	953	,"MAXT":	9	,	"MINT":	5	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	954	,"MAXT":	9	,	"MINT":	5	,	"PREC":	-1	,	"POP":	4	},										
+		{"holiday": 0	,"WX":	958	,"MAXT":	9	,	"MINT":	5	,	"PREC":	-1	,	"POP":	8	},										
+		{"holiday": 0	,"WX":	961	,"MAXT":	9	,	"MINT":	6	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	962	,"MAXT":	9	,	"MINT":	6	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	963	,"MAXT":	9	,	"MINT":	6	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	964	,"MAXT":	9	,	"MINT":	6	,	"PREC":	-1	,	"POP":	4	},										
+		{"holiday": 0	,"WX":	968	,"MAXT":	9	,	"MINT":	6	,	"PREC":	-1	,	"POP":	8	},										
+		{"holiday": 0	,"WX":	971	,"MAXT":	9	,	"MINT":	7	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	972	,"MAXT":	9	,	"MINT":	7	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	973	,"MAXT":	9	,	"MINT":	7	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	974	,"MAXT":	9	,	"MINT":	7	,	"PREC":	-1	,	"POP":	4	},										
+		{"holiday": 0	,"WX":	981	,"MAXT":	9	,	"MINT":	8	,	"PREC":	-1	,	"POP":	1	},										
+		{"holiday": 0	,"WX":	982	,"MAXT":	9	,	"MINT":	8	,	"PREC":	-1	,	"POP":	2	},										
+		{"holiday": 0	,"WX":	983	,"MAXT":	9	,	"MINT":	8	,	"PREC":	-1	,	"POP":	3	},										
+		{"holiday": 0	,"WX":	984	,"MAXT":	9	,	"MINT":	8	,	"PREC":	-1	,	"POP":	4	}										
+	],																									
+	"mrftitle": "傘の出番も　防寒必須",																									
+	"mrfcomment": "スッキリしない天気の日が多くなります。日曜日は雨風が強まるおそれも。寒い日が続くので、防寒が必須です。体調管理もシッカリと行なってください。",																									
+	"today_tomorrow_attr": {																									
+		"time": 1644159600,																								
+		"stride": 86400																								
+	},																									
+	"today_tomorrow": [																									
+			{"holiday": 0,"PREC": 0.2,"POP_AM": -999,"POP_PM": -999,"sunrise": "07:10","sunset": "17:54","TMAX": 7.8,"TMAX_DIFF": 2,"TMIN": 2.7,"TMIN_DIFF": 1,"WNDDIR": 15,"WNDSPD": 2,"WX": 111},																							
+			{"holiday": 0,"PREC": 1.7,"POP_AM": -999,"POP_PM": -999,"sunrise": "07:09","sunset": "17:55","TMAX": 9.6,"TMAX_DIFF": 2,"TMIN": 3.1,"TMIN_DIFF": 0,"WNDDIR": 16,"WNDSPD": 4,"WX": 205},																							
+			{"holiday": 0,"PREC": -999,"POP_AM": -999,"POP_PM": 20,"sunrise": "07:08","sunset": "17:56","TMAX": 12,"TMAX_DIFF": 2,"TMIN": 2,"TMIN_DIFF": -1,"WNDDIR": 16,"WNDSPD": 5,"WX": 200},																							
+			{"holiday": 0,"PREC": -999,"POP_AM": 50,"POP_PM": 10,"sunrise": "07:08","sunset": "17:57","TMAX": 10,"TMAX_DIFF": -2,"TMIN": 7,"TMIN_DIFF": 5,"WNDDIR": 16,"WNDSPD": 4,"WX": 311}																							
+		],																								
+		"today_tomorrowtitle": "スッキリしない空　雨具をお伴に",																								
+		"today_tomorrowcomment": "明日は雲が広がり、にわか雨や雪の可能性があります。雨具をお伴に。ただ、昼過ぎ以降は日差しが届くこともありそうです。昼間も寒いため、万全な防寒を。",																								
+		"warn_ary_v2": {																								
+			"atime": 1644403800,																							
+			"warn_level": 2,																							
+			"list": [{																							
+				"name": "古賀市",																						
+				"warn": [																						
+					"warn_dry"																					
+				]																						
+			}]																							
+		},																								
+		"flag": {																								
+			"fcst5m": 1																							
+		},																								
+		"observation": {	"date": 1644402600,"WX": 200,"AIRTMP": 8.4,"ARPRSS": 1011,"PREC": 0,"RHUM": 67,"WNDDIR": 3,"WNDSPD": 1.4,"FEEL": "寒い"},																							
+		"card_list_v4": [																								
+			["wni_ad_banner_M3"],																							
+			["wnilive_M3"],																							
+			["wni_ad_banner_M1","adx_banner_1"],																							
+			["contents_recommend0"],																							
+			["report"],																							
+			["area_recommend"],																							
+			["news"],																							
+			["wnilive_M1"],																							
+			["adx_banner_2"],																							
+			["contents_recommend1"],																							
+			["contents_recommend2"],																							
+			["contents_recommend3"],																							
+			["contents_recommend4"],																							
+			["laundry"],																							
+			["pollen"],																							
+			["fortune"],																							
+			["contents_recommend5"]																							
+		],																								
+		"report": [{																								
+			"card": "report",																							
+			"livecamera": {																							
+				"name": "若宮IC",																						
+				"id": "410002094",																						
+				"photo_list": [																						
+					{"url": "https://mwsgvs.cdn.weathernews.jp/ip/livecam/410002094/20220209095802.jpg","date": 1644400682},																					
+					{"url": "https://mwsgvs.cdn.weathernews.jp/ip/livecam/410002094/20220209100302.jpg","date": 1644400982},																					
+					{"url": "https://mwsgvs.cdn.weathernews.jp/ip/livecam/410002094/20220209100803.jpg","date": 1644401283},																					
+					{"url": "https://mwsgvs.cdn.weathernews.jp/ip/livecam/410002094/20220209101302.jpg","date": 1644401582},																					
+					{"url": "https://mwsgvs.cdn.weathernews.jp/ip/livecam/410002094/20220209101802.jpg","date": 1644401882},																					
+					{"url": "https://mwsgvs.cdn.weathernews.jp/ip/livecam/410002094/20220209102302.jpg","date": 1644402182},																					
+					{"url": "https://mwsgvs.cdn.weathernews.jp/ip/livecam/410002094/20220209102803.jpg","date": 1644402483},																					
+					{"url": "https://mwsgvs.cdn.weathernews.jp/ip/livecam/410002094/20220209103302.jpg","date": 1644402782},																					
+					{"url": "https://mwsgvs.cdn.weathernews.jp/ip/livecam/410002094/20220209103804.jpg","date": 1644403084},																					
+					{"url": "https://mwsgvs.cdn.weathernews.jp/ip/livecam/410002094/20220209104303.jpg","date": 1644403383}																					
+				]																						
+			},																							
+			"report_list": [																							
+				{"img": "https://smtgvs.cdn.weathernews.jp/smart/report/thumb/2022-02-09/60563548.jpg","id": "60563548","reporter_id": "248860648","movie": 0},																						
+				{"img": "https://smtgvs.cdn.weathernews.jp/smart/report/thumb/2022-02-09/60563182.jpg","id": "60563182","reporter_id": "237628318","movie": 0},																						
+				{"img": "https://smtgvs.cdn.weathernews.jp/smart/report/thumb/2022-02-09/60562994.jpg","id": "60562994","reporter_id": "6261581","movie": 0},																						
+				{"img": "https://smtgvs.cdn.weathernews.jp/smart/report/thumb/2022-02-09/60562520.jpg","id": "60562520","reporter_id": "254064598","movie": 0}																						
+			]																							
+		}],																								
+		"news": [{																								
+			"card": "news",																							
+			"news_list": [																							
+				{																						
+					"txt": "【雪情報】明日は都心でも積雪10cm前後　交通へ影響も",																					
+					"img": "https://smtgvs.cdn.weathernews.jp//s/topics/thumb/article/202202090215_sns_img_A_320x240.jpg?1644395209",																					
+					"url": "https://weathernews.jp/s/news/snow/?showall=1&fm=under_pinpoint1",																					
+					"edit_tm": 1644396705																					
+				},																						
+				{																						
+					"txt": "【週間】三連休最終日は再び南岸低気圧",																					
+					"img": "https://smtgvs.cdn.weathernews.jp//s/topics/thumb/article/202202090155_top_img_A_320x240.jpg?1644385917",																					
+					"url": "https://weathernews.jp/s/topics/202202/090155/?fm=under_pinpoint2",																					
+					"edit_tm": 1644388642																					
+				},																						
+				{																						
+					"txt": "東京都心で10cm程の積雪のおそれ 気温次第ではさらに悪化も",																					
+					"img": "https://smtgvs.cdn.weathernews.jp//s/topics/thumb/article/202202090135_top_img_A_320x240.jpg?1644388630",																					
+					"url": "https://weathernews.jp/s/topics/202202/090135/?fm=under_pinpoint3",																					
+					"edit_tm": 1644396780																					
+				}																						
+			]																							
+		}],																								
+		"wni_ad_banner": [],																								
+		"area_recommend": [{																								
+			"card": "area_recommend",																							
+			"title": "福岡のおすすめ情報",																							
+			"recommend_list": [																							
+				{																						
+					"txt": "長期予報（4月までの天気傾向）",																					
+					"img": "https://site.weathernews.jp/app/img/area_rec/20220122_181545_24676.png",																					
+					"url": "https://weathernews.jp/s/opinion/comment.html?path=arearecommend",																					
+					"premium": 1																					
+				},																						
+				{																						
+					"txt": "10日先までの服装をズバリ予想！",																					
+					"img": "https://site.weathernews.jp/app/img/area_rec/20211029_113301_23475.png",																					
+					"url": "https://weathernews.jp/s/clothes/?path=arearecommend",																					
+					"premium": 0																					
+				},																						
+				{																						
+					"txt": "カラカラの日は要注意｜乾燥指数",																					
+					"img": "https://site.weathernews.jp/app/img/area_rec/20201213_165721_27901.png",																					
+					"url": "https://weathernews.jp/s/dry/gps.html?path=arearecommend",																					
+					"premium": 0																					
+				}																						
+			]																							
+		}],																								
+		"contents_recommend": [																								
+			{																							
+				"card": "contents_recommend1",																						
+				"title": "",																						
+				"txt": "",																						
+				"img": "https://site.weathernews.jp/app/img/contents_rec/banner/20210709_170643_19668.png",																						
+				"url": "https://weathernews.jp/smart/wnt_sample/?menu=smartalarm&path=opscard",																						
+				"banner_color": ""																						
+			},																							
+			{																							
+				"card": "contents_recommend4",																						
+				"title": "",																						
+				"txt": "",																						
+				"img": "https://site.weathernews.jp/app/img/contents_rec/banner/20220202_165545_11389.png",																						
+				"url": "https://weathernews.jp/s/pollen/?path=opscard",																						
+				"banner_color": ""																						
+			},																							
+			{																							
+				"card": "contents_recommend5",																						
+				"title": "",																						
+				"txt": "",																						
+				"img": "https://site.weathernews.jp/app/img/contents_rec/banner/banner_premium_03@2x.png",																						
+				"url": "https://weathernews.jp/smart/wnt_sample/?menu=pinpointweather&path=opscard",																						
+				"banner_color": ""																						
+			}																							
+		],																								
+		"wnilive": [{																								
+			"card": "wnilive_M1",																							
+			"youtubeID": "Z_NfcBHXbZ4"																							
+		}],																								
+		"wx_driven_contents": [],																								
+		"fortune": [{																								
+			"card": "fortune",																							
+			"maxCount": 300																							
+		}],																								
+		"laundry": [{																								
+			"card": "laundry",																							
+			"url": "https://aplapi.weathernews.jp/lba/washing/day_telop/"																							
+		}],																								
+		"pollen": [{																								
+			"card": "pollen",																							
+			"level": 1,																							
+			"date": "2月10日(木)",																							
+			"url": "https://weathernews.jp/s/pollen/fcst_list/fukuoka/40223/"																							
+		}],																								
+		"wxalarm": [{																								
+			"card": "wxalarm",																							
+			"img": "https://site.weathernews.jp/app/img/wxalarm_rec/banner_wxalarm_recommend_trans@2x.png"																							
+		}],																								
+		"heatstroke": [],																								
+		"admob_native_100": [																								
+			{																							
+				"card": "admob_native_100_1",																						
+				"adid": "ca-app-pub-7577457140620199/3913576500"																						
+			},																							
+			{																							
+				"card": "admob_native_100_2",																						
+				"adid": "ca-app-pub-7577457140620199/4873780510"																						
+			}																							
+		],																								
+		"admob_banner_100": [																								
+			{																							
+				"card": "admob_banner_100_1",																						
+				"adid": "ca-app-pub-7577457140620199/6925941280",																						
+				"lineid": "832724"																						
+			},																							
+			{																							
+				"card": "admob_banner_100_2",																						
+				"adid": "ca-app-pub-7577457140620199/7942097917",																						
+				"lineid": "4902"																						
+			}																							
+		],																								
+		"line_banner_100": [{																								
+				"card": "line_banner_100_1",																						
+				"adid": "832724"																						
+			},																							
+			{																							
+				"card": "line_banner_100_2",																						
+				"adid": "4902"																						
+			}																							
+		],																								
+		"adx_banner": [{																								
+				"card": "adx_banner_1",																						
+				"adid": "/284705699/ca-mb-app-pub-7732679874752919-tag/PinpointBannerAd_Android",																						
+				"lineid": "832724",																						
+				"tamid": "24f6402f-072d-4c95-9752-9d000a8dfd9f",																						
+				"prebidid": "3175987"																						
+			},																							
+			{																							
+				"card": "adx_banner_2",																						
+				"adid": "/284705699/ca-mb-app-pub-7732679874752919-tag/PinpointBannerAd_btf_Android",																						
+				"lineid": "4902",																						
+				"tamid": "a58a092c-1459-46fb-a7d6-707aeecf08eb",																						
+				"prebidid": "3175988"																						
+			}																							
+		],																								
+		"admob_banner_50": [{																								
+			"card": "admob_banner_50_1",																							
+			"adid": "ca-app-pub-7577457140620199/9854399090"																							
+		}],																								
+		"ad_key_value": [{																								
+			"key": "wni_airtmp_le12",																							
+			"value": "1"																							
+		}]																								
+	}																									
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
