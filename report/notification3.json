@@ -1,0 +1,226 @@
+
+	{
+	"has_next":false,
+	"notification":
+		[
+		
+			{
+			"reporter":
+				[
+				
+					{
+					"reporter_photo":"https://wxrepo.weathernews.jp/reporter/51/1366551.jpg?1562325650",
+					"reporter_id":"1366551",
+					"reporter_name":"ともひろ🐶🐾🙈🙊🙉☔️🐌🎋🌠"
+					}
+					
+				]
+				,
+			"report_id":"",
+			"total_number":1,
+			"time":1621844097,
+			"unread":true,
+			"type":"follow",
+			"notification_id":"162y1844097.086533"
+			}
+			,
+		
+			{
+			"reporter":
+				[
+				
+					{
+					"reporter_photo":"http://pt-apns600-vmg.wni.co.jp/ip/henmim/curation/prof_photo/airi.png",
+					"reporter_id":"116779441",
+					"reporter_name":"moe"
+					}
+					
+				]
+				,
+			"report_id":"54351362",
+			"total_number":1,
+			"time":1621844097,
+			"unread":true,
+			"type":"thanks",
+			"notification_id":"162y1844097.111111"
+			}
+			,
+		
+			{
+			"reporter":
+				[
+				
+					{
+					"reporter_photo":"http://pt-apns600-vmg.wni.co.jp/ip/henmim/curation/prof_photo/airi.png",
+					"reporter_id":"116779441",
+					"reporter_name":"moe"
+					}
+					
+				]
+				,
+			"report_id":"54351362",
+			"total_number":1,
+			"time":1621844097,
+			"unread":false,
+			"type":"comment",
+			"notification_id":"162y1844097.222222"
+			}
+			,
+		
+			{
+			"reporter":
+				[
+				
+					{
+					"reporter_photo":"http://google.com/airi.png",
+					"reporter_id":"116779441",
+					"reporter_name":"アイコン不正URL"
+					}
+					
+				]
+				,
+			"report_id":"55721300",
+			"total_number":1,
+			"time":1621844097,
+			"unread":false,
+			"type":"comment",
+			"notification_id":"162y1844097.333333"
+			}
+			,
+		
+			{
+			"reporter":
+				[
+				
+					{
+					"reporter_photo":"http://tpf.weathernews.jp/report/reporter_photo/avatar_wni@2x.png",
+					"reporter_id":"0",
+					"reporter_name":"ウェザーニュース"
+					}
+					
+				]
+				,
+			"report_id":"",
+			"total_number":1,
+			"time":1621844090,
+			"unread":false,
+			"type":"info",
+			"notification_id":"1621844097.99999",
+			  "info":
+				{
+				"comment":"【掲載のお知らせ】moeさんのリポートが「空の写真」に掲載されました。",
+				"destination_url":"https://weathernews.jp/s/",
+				"icon_url":"https://smtgvs.cdn.weathernews.jp/ip/tabmenu/icon/icon_volcano@2x.png"
+				}
+				
+			}
+			,
+		
+			{
+			"reporter":
+				[
+				
+					{
+					"reporter_photo":"https://tpf.weathernews.jp/report/reporter_photo/avatar_wni@2x.png",
+					"reporter_id":"0",
+					"reporter_name":"ウェザーニュース"
+					}
+					
+				]
+				,
+			"report_id":"",
+			"total_number":1,
+			"time":1621844090,
+			"unread":false,
+			"type":"info",
+			"notification_id":"1621844097.88888",
+			 "info":
+				{
+				"comment":"【掲載のお知らせ】moeさんのリポートが「空の写真」に掲載されました。(アイコンなし)",
+				"destination_url":"https://weathernews.jp/s/",
+				"icon_url":""
+				}
+				
+			}
+			,
+		
+			{
+			"reporter":
+				[
+				
+					{
+					"reporter_photo":"https://tpf.weathernews.jp/report/reporter_photo/avatar_wni@2x.png",
+					"reporter_id":"0",
+					"reporter_name":"ウェザーニュース"
+					}
+					
+				]
+				,
+			"report_id":"",
+			"total_number":1,
+			"time":1621844090,
+			"unread":true,
+			"type":"info",
+			"notification_id":"1621844097.77777",
+			 "info":
+				{
+				"comment":"【掲載のお知らせ】moeさんのリポートが「空の写真」に掲載されました。(リンク先URLなし)",
+				"destination_url":"",
+				"icon_url":"https://smtgvs.cdn.weathernews.jp/ip/tabmenu/icon/icon_volcano@2x.png"
+				}
+				
+			}
+			,
+			
+			{
+			"reporter":
+				[
+				
+					{
+					"reporter_photo":"https://tpf.weathernews.jp/report/reporter_photo/avatar_wni@2x.png",
+					"reporter_id":"0",
+					"reporter_name":"ウェザーニュース"
+					}
+					
+				]
+				,
+			"report_id":"",
+			"total_number":1,
+			"time":1621844090,
+			"unread":true,
+			"type":"info",
+			"notification_id":"1621844097.8888",
+			 "info":
+				{
+				"comment":"【掲載のお知らせ】moeさんのリポートが「空の写真」に掲載されました。(アイコン不正)",
+				"destination_url":"",
+				"icon_url":"https://111.222.222/aaa.png"
+				}
+				
+			}
+			,
+			
+			{
+			"reporter":
+				[
+				
+					{
+					"reporter_photo":"https://wxrepo.weathernews.jp/reporter/51/1366551.jpg?1562325650",
+					"reporter_id":"1366551",
+					"reporter_name":""
+					}
+					
+				]
+				,
+			"report_id":"",
+			"total_number":1,
+			"time":1621844097,
+			"unread":true,
+			"type":"follow",
+			"notification_id":"162y1844097.88889"
+			}
+
+			
+		]
+		
+	}
