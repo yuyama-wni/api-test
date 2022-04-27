@@ -1,0 +1,45 @@
+{
+    "info_map": {
+        "txt": "ここの花粉飛散\n予想を確認",
+        "mscale": "M1",
+	"img": "",
+        "url": "https://weathernews.jp/s/pollen/gps.html?fm=wx_ch",
+        "txtcolor": "#FFFFFF\t"
+    },
+    "info_pinpoint": {
+        "txt": "",
+        "mscale": "M1",
+        "img": "http://weathernews.jp/ip/info/banner_v2/info_pinpoint/FamilyPack_s@android.png",
+        "img_large": "http://weathernews.jp/ip/info/banner_v2/info_pinpoint_large/FamilyPack_l@android.png",
+        "url": "https://weathernews.jp/ip/info/bigbanner/family/html/?fm=pinpoint_ch",
+        "txtcolor": "#FFFFFF"
+    },
+    "info_mypage": {
+        "txt": "M1テスト",
+        "mscale": "M1",
+        "url": "https://weathernews.jp/s/sakura/contest/?fm=mypage"
+    },
+    "quake": {
+        "img": "http://weathernews.jp/ip/info/banner_v2/quake/tsunami_clear1@android.png",
+        "title": "地震津波アプリのお知らせ",
+        "txtcolor": "#FFFFFF",
+        "txt": "",
+        "url": "opensafari://weathernews.jp/ip/info/jishin_tsunami/index.html",
+	"valid_tm": 4071222000
+    },
+    "tsunami": {
+        "img": "http://weathernews.jp/ip/info/banner_v2/tsunami/jishin_tsunami_clear1@android.png",
+        "title": "専用アプリのご紹介",
+        "txtcolor": "#FFFFFF",
+        "txt": "",
+        "url": "opensafari://weathernews.jp/ip/info/jishin_tsunami/index.html",
+	"valid_tm": 4079503800
+    },
+    "guerrilla": {
+        "img": "http://weathernews.jp/ip/info/banner_v2/guerrilla/gerira_get@android.png",
+        "txtcolor": "#00FF00",
+        "txt": "",
+        "url": "https://weathernews.jp/smart/sora_mission/guerrilla2014/index.html",
+        "display":true
+    }
+}
