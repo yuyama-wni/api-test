@@ -1,0 +1,178 @@
+{
+  "stat": "OK",
+  "area": "chiba",
+  "time": "10:30",
+  "locname": "千葉市花見川区",
+  "title": "レーダーに映りにくい弱い雨雲",
+  "comment": "レーダーに映りにくい弱い雨雲や小さな雨雲が時々通過して、雨を降らせることがあります。ただ、降っても弱く短時間です。",
+  "small": {
+    "light_image": "https://tile.weathernews.jp/past/widgetimg/small/light/chiba.webp",
+    "pinx": 229,
+    "piny": 127
+  },
+  "medium": {
+    "light_image": "https://tile.weathernews.jp/past/widgetimg/medium/light/chiba.webp",
+    "pinx": 202,
+    "piny": 196
+  },
+  "large": {
+    "light_image": "https://tile.weathernews.jp/past/widgetimg/large/light/chiba.webp",
+    "pinx": 488,
+    "piny": 272
+  },
+  "srf": [
+    {
+      "time": 1657758600,
+      "prec": -1,
+      "label": "-1"
+    },
+    {
+      "time": 1657758900,
+      "prec": 0
+    },
+    {
+      "time": 1657759200,
+      "prec": 0.5
+    },
+    {
+      "time": 1657759500,
+      "prec": 1
+    },
+    {
+      "time": 1657759800,
+      "prec": 2
+    },
+    {
+      "time": 1657760100,
+      "prec": 3
+    },
+    {
+      "time": 1657760400,
+      "prec": 4
+    },
+    {
+      "time": 1657760700,
+      "prec": 5
+    },
+    {
+      "time": 1657761000,
+      "prec": 7
+    },
+    {
+      "time": 1657761300,
+      "prec": 8
+    },
+    {
+      "time": 1657761600,
+      "prec": 15
+    },
+    {
+      "time": 1657761900,
+      "prec": 16
+    },
+    {
+      "time": 1657762200,
+      "prec": 31,
+      "label": "現在"
+    },
+    {
+      "time": 1657762500,
+      "prec": 32
+    },
+    {
+      "time": 1657762800,
+      "prec": 63
+    },
+    {
+      "time": 1657763100,
+      "prec": 64
+    },
+    {
+      "time": 1657763400,
+      "prec": 100
+    },
+    {
+      "time": 1657763700,
+      "prec": 200
+    },
+    {
+      "time": 1657764000,
+      "prec": 0
+    },
+    {
+      "time": 1657764300,
+      "prec": 0
+    },
+    {
+      "time": 1657764600,
+      "prec": 0
+    },
+    {
+      "time": 1657764900,
+      "prec": 0
+    },
+    {
+      "time": 1657765200,
+      "prec": 0
+    },
+    {
+      "time": 1657765500,
+      "prec": 0
+    },
+    {
+      "time": 1657765800,
+      "prec": 0,
+      "label": "+1"
+    },
+    {
+      "time": 1657766400,
+      "prec": 0
+    },
+    {
+      "time": 1657767000,
+      "prec": 0
+    },
+    {
+      "time": 1657767600,
+      "prec": 0
+    },
+    {
+      "time": 1657768200,
+      "prec": 0
+    },
+    {
+      "time": 1657768800,
+      "prec": 0
+    },
+    {
+      "time": 1657769400,
+      "prec": 0,
+      "label": "+2"
+    },
+    {
+      "time": 1657770000,
+      "prec": 0
+    },
+    {
+      "time": 1657770600,
+      "prec": 0
+    },
+    {
+      "time": 1657771200,
+      "prec": 0
+    },
+    {
+      "time": 1657771800,
+      "prec": 0
+    },
+    {
+      "time": 1657772400,
+      "prec": 0
+    },
+    {
+      "time": 1657773000,
+      "prec": 0,
+      "label": "+3"
+    }
+  ]
+}
