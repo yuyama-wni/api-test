@@ -893,7 +893,7 @@
           "url": "https://weathernews.jp/s/heatstroke/pinpoint.html",
           "premium": 1
         }
-      ]
+      ],
 	  "three_forcast": "https://weathernews.jp/s/typhoon/3bon.html?tyno=1910",
     },
     {
@@ -2118,7 +2118,7 @@
           "url": "https://weathernews.jp/s/heatstroke/pinpoint.html",
           "premium": 1
         }
-      ]
+      ],
 	  "three_forcast": null,
     }
   ],
