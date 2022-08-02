@@ -894,7 +894,7 @@
           "premium": 1
         }
       ],
-      "three_forcast": "https://weathernews.jp/s/typhoon/3bon.html?tyno=1910"
+      "three_forecast": "https://weathernews.jp/s/typhoon/3bon.html?tyno=1910"
     },
     {
       "bofu": [],
@@ -2119,7 +2119,7 @@
           "premium": 1
         }
       ],
-      "three_forcast": null
+      "three_forecast": null
     }
   ],
   "button_list": [
