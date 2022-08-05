@@ -1,0 +1,1843 @@
+{
+    "from_area": 0,
+    "JCODE": "25203",
+    "JCODENAME": "長浜市",
+    "update_time": 1659682200,
+    "areacode": "JP.YNGS",
+    "lat": 35.53973,
+    "lon": 136.151444,
+    "timezone": "Asia/Tokyo",
+    "quake_ch": 0,
+    "location_info": {
+        "areacode": "JP.TSRG",
+        "r1": "",
+        "r2": "滋賀県",
+        "r3": "長浜市",
+        "r4": "西浅井町余",
+        "postcode": "5290706",
+        "area": "shiga",
+        "point_name": "長浜市西浅井町余"
+    },
+    "catch": {
+        "color": "#000000",
+        "id": 5,
+        "message": "高時川で氾濫発生、姉川でも氾濫のおそれ",
+        "url": "https://weathernews.jp/s/topics/202208/050185/?path=pintop",
+        "once_flag": false,
+        "pref": "shiga",
+        "valid-until": 1659679200
+    },
+    "srf_attr": {
+        "time": 1659492000,
+        "stride": 3600,
+        "pref": "shiga"
+    },
+    "srf": [
+        {
+            "time": 1659492000,
+            "WX": 100,
+            "TEMP": 32,
+            "PREC": 0,
+            "WNDDIR": 16,
+            "WNDSPD": 1,
+            "RHUM": 62,
+            "ARPRSS": 980
+        },
+        {
+            "time": 1659495600,
+            "WX": 100,
+            "TEMP": 32,
+            "PREC": 0,
+            "WNDDIR": 16,
+            "WNDSPD": 2,
+            "RHUM": 58,
+            "ARPRSS": 980
+        },
+        {
+            "time": 1659499200,
+            "WX": 100,
+            "TEMP": 33,
+            "PREC": 0,
+            "WNDDIR": 16,
+            "WNDSPD": 3,
+            "RHUM": 62,
+            "ARPRSS": 979
+        },
+        {
+            "time": 1659502800,
+            "WX": 100,
+            "TEMP": 32,
+            "PREC": 0,
+            "WNDDIR": 16,
+            "WNDSPD": 2,
+            "RHUM": 60,
+            "ARPRSS": 979
+        },
+        {
+            "time": 1659506400,
+            "WX": 100,
+            "TEMP": 32,
+            "PREC": 0,
+            "WNDDIR": 16,
+            "WNDSPD": 3,
+            "RHUM": 60,
+            "ARPRSS": 979
+        },
+        {
+            "time": 1659510000,
+            "WX": 100,
+            "TEMP": 31,
+            "PREC": 0,
+            "WNDDIR": 16,
+            "WNDSPD": 2,
+            "RHUM": 62,
+            "ARPRSS": 979
+        },
+        {
+            "time": 1659513600,
+            "WX": 200,
+            "TEMP": 30,
+            "PREC": 0,
+            "WNDDIR": 16,
+            "WNDSPD": 2,
+            "RHUM": 68,
+            "ARPRSS": 979
+        },
+        {
+            "time": 1659517200,
+            "WX": 200,
+            "TEMP": 29,
+            "PREC": 0,
+            "WNDDIR": 16,
+            "WNDSPD": 1,
+            "RHUM": 73,
+            "ARPRSS": 979
+        },
+        {
+            "time": 1659520800,
+            "WX": 200,
+            "TEMP": 28,
+            "PREC": 0,
+            "WNDDIR": 16,
+            "WNDSPD": 1,
+            "RHUM": 75,
+            "ARPRSS": 979
+        },
+        {
+            "time": 1659524400,
+            "WX": 200,
+            "TEMP": 28,
+            "PREC": 0,
+            "WNDDIR": 16,
+            "WNDSPD": 1,
+            "RHUM": 80,
+            "ARPRSS": 979
+        },
+        {
+            "time": 1659528000,
+            "WX": 200,
+            "TEMP": 27,
+            "PREC": 0,
+            "WNDDIR": 16,
+            "WNDSPD": 1,
+            "RHUM": 80,
+            "ARPRSS": 979
+        },
+        {
+            "time": 1659531600,
+            "WX": 200,
+            "TEMP": 27,
+            "PREC": 0,
+            "WNDDIR": 16,
+            "WNDSPD": 1,
+            "RHUM": 83,
+            "ARPRSS": 979
+        },
+        {
+            "time": 1659535200,
+            "WX": 200,
+            "TEMP": 26,
+            "PREC": 0,
+            "WNDDIR": 16,
+            "WNDSPD": 1,
+            "RHUM": 82,
+            "ARPRSS": 979
+        },
+        {
+            "time": 1659538800,
+            "WX": 200,
+            "TEMP": 25.2,
+            "PREC": 0,
+            "WNDDIR": 16,
+            "WNDSPD": 1.2,
+            "RHUM": 82,
+            "ARPRSS": 979
+        },
+        {
+            "time": 1659542400,
+            "WX": 100,
+            "TEMP": 25.1,
+            "PREC": 0,
+            "WNDDIR": 16,
+            "WNDSPD": 0.9,
+            "RHUM": 85,
+            "ARPRSS": 978
+        },
+        {
+            "time": 1659546000,
+            "WX": 100,
+            "TEMP": 25,
+            "PREC": 0,
+            "WNDDIR": 16,
+            "WNDSPD": 1.2,
+            "RHUM": 85,
+            "ARPRSS": 978
+        },
+        {
+            "time": 1659549600,
+            "WX": 200,
+            "TEMP": 24.8,
+            "PREC": 0,
+            "WNDDIR": 16,
+            "WNDSPD": 1.2,
+            "RHUM": 83,
+            "ARPRSS": 978
+        },
+        {
+            "time": 1659553200,
+            "WX": 200,
+            "TEMP": 24.6,
+            "PREC": 0,
+            "WNDDIR": 16,
+            "WNDSPD": 0.8,
+            "RHUM": 86,
+            "ARPRSS": 978
+        },
+        {
+            "time": 1659556800,
+            "WX": 200,
+            "TEMP": 24.7,
+            "PREC": 0,
+            "WNDDIR": 14,
+            "WNDSPD": 0.4,
+            "RHUM": 85,
+            "ARPRSS": 978
+        },
+        {
+            "time": 1659560400,
+            "WX": 200,
+            "TEMP": 24.7,
+            "PREC": 0,
+            "WNDDIR": 15,
+            "WNDSPD": 0.6,
+            "RHUM": 88,
+            "ARPRSS": 978
+        },
+        {
+            "time": 1659564000,
+            "WX": 200,
+            "TEMP": 25.1,
+            "PREC": 0,
+            "WNDDIR": 15,
+            "WNDSPD": 0.5,
+            "RHUM": 89,
+            "ARPRSS": 979
+        },
+        {
+            "time": 1659567600,
+            "WX": 650,
+            "TEMP": 25.5,
+            "PREC": 0.5,
+            "WNDDIR": 15,
+            "WNDSPD": 0.7,
+            "RHUM": 85,
+            "ARPRSS": 978
+        },
+        {
+            "time": 1659571200,
+            "WX": 300,
+            "TEMP": 26.4,
+            "PREC": 1,
+            "WNDDIR": 14,
+            "WNDSPD": 1,
+            "RHUM": 85,
+            "ARPRSS": 978
+        },
+        {
+            "time": 1659574800,
+            "WX": 300,
+            "TEMP": 27.3,
+            "PREC": 1,
+            "WNDDIR": 14,
+            "WNDSPD": 1,
+            "RHUM": 82,
+            "ARPRSS": 978
+        },
+        {
+            "time": 1659578400,
+            "WX": 300,
+            "TEMP": 25.6,
+            "PREC": 1,
+            "WNDDIR": 14,
+            "WNDSPD": 0.5,
+            "RHUM": 86,
+            "ARPRSS": 977
+        },
+        {
+            "time": 1659582000,
+            "WX": 300,
+            "TEMP": 23.4,
+            "PREC": 6,
+            "WNDDIR": 9,
+            "WNDSPD": 0.5,
+            "RHUM": 84,
+            "ARPRSS": 977
+        },
+        {
+            "time": 1659585600,
+            "WX": 300,
+            "TEMP": 22.4,
+            "PREC": 17,
+            "WNDDIR": 6,
+            "WNDSPD": 0.5,
+            "RHUM": 86,
+            "ARPRSS": 977
+        },
+        {
+            "time": 1659589200,
+            "WX": 300,
+            "TEMP": 22.9,
+            "PREC": 11,
+            "WNDDIR": 16,
+            "WNDSPD": 0.5,
+            "RHUM": 86,
+            "ARPRSS": 976
+        },
+        {
+            "time": 1659592800,
+            "WX": 300,
+            "TEMP": 23,
+            "PREC": 17,
+            "WNDDIR": 1,
+            "WNDSPD": 0.6,
+            "RHUM": 87,
+            "ARPRSS": 976
+        },
+        {
+            "time": 1659596400,
+            "WX": 650,
+            "TEMP": 23,
+            "PREC": 0.5,
+            "WNDDIR": 16,
+            "WNDSPD": 1.5,
+            "RHUM": 87,
+            "ARPRSS": 976
+        },
+        {
+            "time": 1659600000,
+            "WX": 300,
+            "TEMP": 24.1,
+            "PREC": 5,
+            "WNDDIR": 1,
+            "WNDSPD": 1.3,
+            "RHUM": 89,
+            "ARPRSS": 976
+        },
+        {
+            "time": 1659603600,
+            "WX": 300,
+            "TEMP": 23.8,
+            "PREC": 2,
+            "WNDDIR": 2,
+            "WNDSPD": 1.3,
+            "RHUM": 93,
+            "ARPRSS": 976
+        },
+        {
+            "time": 1659607200,
+            "WX": 650,
+            "TEMP": 23.4,
+            "PREC": 0.5,
+            "WNDDIR": 16,
+            "WNDSPD": 1,
+            "RHUM": 96,
+            "ARPRSS": 976
+        },
+        {
+            "time": 1659610800,
+            "WX": 650,
+            "TEMP": 23,
+            "PREC": 0.5,
+            "WNDDIR": 10,
+            "WNDSPD": 1,
+            "RHUM": 96,
+            "ARPRSS": 977
+        },
+        {
+            "time": 1659614400,
+            "WX": 300,
+            "TEMP": 23,
+            "PREC": 4,
+            "WNDDIR": 2,
+            "WNDSPD": 0.7,
+            "RHUM": 98,
+            "ARPRSS": 977
+        },
+        {
+            "time": 1659618000,
+            "WX": 650,
+            "TEMP": 23,
+            "PREC": 0.5,
+            "WNDDIR": 1,
+            "WNDSPD": 0.9,
+            "RHUM": 99,
+            "ARPRSS": 977
+        },
+        {
+            "time": 1659621600,
+            "WX": 650,
+            "TEMP": 23,
+            "PREC": 0.5,
+            "WNDDIR": 2,
+            "WNDSPD": 1,
+            "RHUM": 96,
+            "ARPRSS": 977
+        },
+        {
+            "time": 1659625200,
+            "WX": 650,
+            "TEMP": 22.4,
+            "PREC": 0.5,
+            "WNDDIR": 2,
+            "WNDSPD": 0.8,
+            "RHUM": 99,
+            "ARPRSS": 976
+        },
+        {
+            "time": 1659628800,
+            "WX": 300,
+            "TEMP": 22.5,
+            "PREC": 1,
+            "WNDDIR": 2,
+            "WNDSPD": 0.8,
+            "RHUM": 98,
+            "ARPRSS": 976
+        },
+        {
+            "time": 1659632400,
+            "WX": 300,
+            "TEMP": 22.5,
+            "PREC": 5,
+            "WNDDIR": 4,
+            "WNDSPD": 0.7,
+            "RHUM": 99,
+            "ARPRSS": 975
+        },
+        {
+            "time": 1659636000,
+            "WX": 650,
+            "TEMP": 22.5,
+            "PREC": 0.5,
+            "WNDDIR": 6,
+            "WNDSPD": 0.9,
+            "RHUM": 99,
+            "ARPRSS": 975
+        },
+        {
+            "time": 1659639600,
+            "WX": 300,
+            "TEMP": 22.5,
+            "PREC": 1,
+            "WNDDIR": 4,
+            "WNDSPD": 1,
+            "RHUM": 96,
+            "ARPRSS": 975
+        },
+        {
+            "time": 1659643200,
+            "WX": 300,
+            "TEMP": 22.6,
+            "PREC": 9,
+            "WNDDIR": 8,
+            "WNDSPD": 0.8,
+            "RHUM": 96,
+            "ARPRSS": 976
+        },
+        {
+            "time": 1659646800,
+            "WX": 300,
+            "TEMP": 22.7,
+            "PREC": 11,
+            "WNDDIR": 2,
+            "WNDSPD": 0.7,
+            "RHUM": 98,
+            "ARPRSS": 975
+        },
+        {
+            "time": 1659650400,
+            "WX": 300,
+            "TEMP": 22.4,
+            "PREC": 11,
+            "WNDDIR": 16,
+            "WNDSPD": 0.3,
+            "RHUM": 98,
+            "ARPRSS": 976
+        },
+        {
+            "time": 1659654000,
+            "WX": 300,
+            "TEMP": 21.4,
+            "PREC": 5,
+            "WNDDIR": 10,
+            "WNDSPD": 0.4,
+            "RHUM": 99,
+            "ARPRSS": 976
+        },
+        {
+            "time": 1659657600,
+            "WX": 650,
+            "TEMP": 22.7,
+            "PREC": 0.5,
+            "WNDDIR": 15,
+            "WNDSPD": 0.3,
+            "RHUM": 99,
+            "ARPRSS": 977
+        },
+        {
+            "time": 1659661200,
+            "WX": 650,
+            "TEMP": 23.7,
+            "PREC": 0.5,
+            "WNDDIR": 10,
+            "WNDSPD": 0.7,
+            "RHUM": 97,
+            "ARPRSS": 976
+        },
+        {
+            "time": 1659664800,
+            "WX": 650,
+            "TEMP": 24.6,
+            "PREC": 0.5,
+            "WNDDIR": 9,
+            "WNDSPD": 1,
+            "RHUM": 92,
+            "ARPRSS": 976
+        },
+        {
+            "time": 1659668400,
+            "WX": 650,
+            "TEMP": 25.1,
+            "PREC": 0.5,
+            "WNDDIR": 13,
+            "WNDSPD": 0.2,
+            "RHUM": 83,
+            "ARPRSS": 976
+        },
+        {
+            "time": 1659672000,
+            "WX": 650,
+            "TEMP": 25.9,
+            "PREC": 0.5,
+            "WNDDIR": 10,
+            "WNDSPD": 0.7,
+            "RHUM": 80,
+            "ARPRSS": 975
+        },
+        {
+            "time": 1659675600,
+            "WX": 100,
+            "TEMP": 27.7,
+            "PREC": 0,
+            "WNDDIR": 14,
+            "WNDSPD": 0.5,
+            "RHUM": 75,
+            "ARPRSS": 975
+        },
+        {
+            "time": 1659679200,
+            "WX": 100,
+            "TEMP": 28.1,
+            "PREC": 0,
+            "WNDDIR": 15,
+            "WNDSPD": 1.9,
+            "RHUM": 73,
+            "ARPRSS": 974
+        },
+        {
+            "time": 1659682800,
+            "WX": 100,
+            "TEMP": 28,
+            "PREC": 0,
+            "WNDDIR": 16,
+            "WNDSPD": 1,
+            "RHUM": 76,
+            "ARPRSS": 989
+        },
+        {
+            "time": 1659686400,
+            "WX": 100,
+            "TEMP": 27,
+            "PREC": 0,
+            "WNDDIR": 16,
+            "WNDSPD": 1,
+            "RHUM": 78,
+            "ARPRSS": 989
+        },
+        {
+            "time": 1659690000,
+            "WX": 100,
+            "TEMP": 25,
+            "PREC": 0,
+            "WNDDIR": 16,
+            "WNDSPD": 1,
+            "RHUM": 81,
+            "ARPRSS": 989
+        },
+        {
+            "time": 1659693600,
+            "WX": 100,
+            "TEMP": 25,
+            "PREC": 0,
+            "WNDDIR": 14,
+            "WNDSPD": 1,
+            "RHUM": 88,
+            "ARPRSS": 989
+        },
+        {
+            "time": 1659697200,
+            "WX": 100,
+            "TEMP": 24,
+            "PREC": 0,
+            "WNDDIR": 5,
+            "WNDSPD": 0,
+            "RHUM": 90,
+            "ARPRSS": 990
+        },
+        {
+            "time": 1659700800,
+            "WX": 600,
+            "TEMP": 23,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 91,
+            "ARPRSS": 990
+        },
+        {
+            "time": 1659704400,
+            "WX": 600,
+            "TEMP": 23,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 91,
+            "ARPRSS": 990
+        },
+        {
+            "time": 1659708000,
+            "WX": 600,
+            "TEMP": 23,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 92,
+            "ARPRSS": 990
+        },
+        {
+            "time": 1659711600,
+            "WX": 600,
+            "TEMP": 22,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 92,
+            "ARPRSS": 990
+        },
+        {
+            "time": 1659715200,
+            "WX": 600,
+            "TEMP": 22,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 93,
+            "ARPRSS": 990
+        },
+        {
+            "time": 1659718800,
+            "WX": 200,
+            "TEMP": 22,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 94,
+            "ARPRSS": 990
+        },
+        {
+            "time": 1659722400,
+            "WX": 200,
+            "TEMP": 22,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 94,
+            "ARPRSS": 990
+        },
+        {
+            "time": 1659726000,
+            "WX": 200,
+            "TEMP": 22,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 95,
+            "ARPRSS": 990
+        },
+        {
+            "time": 1659729600,
+            "WX": 200,
+            "TEMP": 22,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 95,
+            "ARPRSS": 990
+        },
+        {
+            "time": 1659733200,
+            "WX": 200,
+            "TEMP": 22,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 94,
+            "ARPRSS": 991
+        },
+        {
+            "time": 1659736800,
+            "WX": 600,
+            "TEMP": 23,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 90,
+            "ARPRSS": 991
+        },
+        {
+            "time": 1659740400,
+            "WX": 600,
+            "TEMP": 25,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 2,
+            "RHUM": 86,
+            "ARPRSS": 991
+        },
+        {
+            "time": 1659744000,
+            "WX": 100,
+            "TEMP": 27,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 2,
+            "RHUM": 81,
+            "ARPRSS": 991
+        },
+        {
+            "time": 1659747600,
+            "WX": 100,
+            "TEMP": 28,
+            "PREC": 0,
+            "WNDDIR": 7,
+            "WNDSPD": 2,
+            "RHUM": 77,
+            "ARPRSS": 991
+        },
+        {
+            "time": 1659751200,
+            "WX": 100,
+            "TEMP": 29,
+            "PREC": 0,
+            "WNDDIR": 7,
+            "WNDSPD": 2,
+            "RHUM": 74,
+            "ARPRSS": 991
+        },
+        {
+            "time": 1659754800,
+            "WX": 100,
+            "TEMP": 30,
+            "PREC": 0,
+            "WNDDIR": 7,
+            "WNDSPD": 2,
+            "RHUM": 72,
+            "ARPRSS": 991
+        },
+        {
+            "time": 1659758400,
+            "WX": 100,
+            "TEMP": 30,
+            "PREC": 0,
+            "WNDDIR": 7,
+            "WNDSPD": 2,
+            "RHUM": 72,
+            "ARPRSS": 990
+        },
+        {
+            "time": 1659762000,
+            "WX": 100,
+            "TEMP": 31,
+            "PREC": 0,
+            "WNDDIR": 7,
+            "WNDSPD": 2,
+            "RHUM": 71,
+            "ARPRSS": 990
+        },
+        {
+            "time": 1659765600,
+            "WX": 100,
+            "TEMP": 31,
+            "PREC": 0,
+            "WNDDIR": 7,
+            "WNDSPD": 2,
+            "RHUM": 72,
+            "ARPRSS": 990
+        },
+        {
+            "time": 1659769200,
+            "WX": 600,
+            "TEMP": 30,
+            "PREC": 0,
+            "WNDDIR": 7,
+            "WNDSPD": 2,
+            "RHUM": 73,
+            "ARPRSS": 990
+        },
+        {
+            "time": 1659772800,
+            "WX": 600,
+            "TEMP": 28,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 2,
+            "RHUM": 76,
+            "ARPRSS": 990
+        },
+        {
+            "time": 1659776400,
+            "WX": 600,
+            "TEMP": 27,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 81,
+            "ARPRSS": 990
+        },
+        {
+            "time": 1659780000,
+            "WX": 200,
+            "TEMP": 25,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 86,
+            "ARPRSS": 991
+        },
+        {
+            "time": 1659783600,
+            "WX": 200,
+            "TEMP": 25,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 89,
+            "ARPRSS": 991
+        },
+        {
+            "time": 1659787200,
+            "WX": 200,
+            "TEMP": 24,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 91,
+            "ARPRSS": 992
+        },
+        {
+            "time": 1659790800,
+            "WX": 200,
+            "TEMP": 24,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 92,
+            "ARPRSS": 992
+        },
+        {
+            "time": 1659794400,
+            "WX": 200,
+            "TEMP": 24,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 92,
+            "ARPRSS": 992
+        },
+        {
+            "time": 1659798000,
+            "WX": 200,
+            "TEMP": 24,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 93,
+            "ARPRSS": 992
+        },
+        {
+            "time": 1659801600,
+            "WX": 200,
+            "TEMP": 24,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 93,
+            "ARPRSS": 992
+        },
+        {
+            "time": 1659805200,
+            "WX": 200,
+            "TEMP": 23,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 93,
+            "ARPRSS": 992
+        },
+        {
+            "time": 1659808800,
+            "WX": 200,
+            "TEMP": 23,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 93,
+            "ARPRSS": 992
+        },
+        {
+            "time": 1659812400,
+            "WX": 200,
+            "TEMP": 23,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 94,
+            "ARPRSS": 992
+        },
+        {
+            "time": 1659816000,
+            "WX": 200,
+            "TEMP": 23,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 94,
+            "ARPRSS": 992
+        },
+        {
+            "time": 1659819600,
+            "WX": 200,
+            "TEMP": 23,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 92,
+            "ARPRSS": 993
+        },
+        {
+            "time": 1659823200,
+            "WX": 200,
+            "TEMP": 23,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 89,
+            "ARPRSS": 993
+        },
+        {
+            "time": 1659826800,
+            "WX": 200,
+            "TEMP": 25,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 2,
+            "RHUM": 84,
+            "ARPRSS": 993
+        },
+        {
+            "time": 1659830400,
+            "WX": 200,
+            "TEMP": 26,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 2,
+            "RHUM": 80,
+            "ARPRSS": 993
+        },
+        {
+            "time": 1659834000,
+            "WX": 600,
+            "TEMP": 28,
+            "PREC": 0,
+            "WNDDIR": 7,
+            "WNDSPD": 2,
+            "RHUM": 76,
+            "ARPRSS": 993
+        },
+        {
+            "time": 1659837600,
+            "WX": 600,
+            "TEMP": 29,
+            "PREC": 0,
+            "WNDDIR": 7,
+            "WNDSPD": 2,
+            "RHUM": 72,
+            "ARPRSS": 993
+        },
+        {
+            "time": 1659841200,
+            "WX": 600,
+            "TEMP": 30,
+            "PREC": 0,
+            "WNDDIR": 7,
+            "WNDSPD": 2,
+            "RHUM": 69,
+            "ARPRSS": 992
+        },
+        {
+            "time": 1659844800,
+            "WX": 600,
+            "TEMP": 31,
+            "PREC": 0,
+            "WNDDIR": 7,
+            "WNDSPD": 2,
+            "RHUM": 68,
+            "ARPRSS": 992
+        },
+        {
+            "time": 1659848400,
+            "WX": 600,
+            "TEMP": 31,
+            "PREC": 0,
+            "WNDDIR": 7,
+            "WNDSPD": 2,
+            "RHUM": 67,
+            "ARPRSS": 992
+        },
+        {
+            "time": 1659852000,
+            "WX": 200,
+            "TEMP": 31,
+            "PREC": 0,
+            "WNDDIR": 7,
+            "WNDSPD": 2,
+            "RHUM": 69,
+            "ARPRSS": 992
+        },
+        {
+            "time": 1659855600,
+            "WX": 200,
+            "TEMP": 30,
+            "PREC": 0,
+            "WNDDIR": 7,
+            "WNDSPD": 1,
+            "RHUM": 72,
+            "ARPRSS": 992
+        },
+        {
+            "time": 1659859200,
+            "WX": 300,
+            "TEMP": 29,
+            "PREC": 1,
+            "WNDDIR": 7,
+            "WNDSPD": 1,
+            "RHUM": 78,
+            "ARPRSS": 992
+        },
+        {
+            "time": 1659862800,
+            "WX": 300,
+            "TEMP": 27,
+            "PREC": 1,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 83,
+            "ARPRSS": 992
+        },
+        {
+            "time": 1659866400,
+            "WX": 200,
+            "TEMP": 26,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 88,
+            "ARPRSS": 993
+        },
+        {
+            "time": 1659870000,
+            "WX": 200,
+            "TEMP": 25,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 91,
+            "ARPRSS": 993
+        },
+        {
+            "time": 1659873600,
+            "WX": 200,
+            "TEMP": 25,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 92,
+            "ARPRSS": 993
+        },
+        {
+            "time": 1659877200,
+            "WX": 200,
+            "TEMP": 24,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 93,
+            "ARPRSS": 993
+        },
+        {
+            "time": 1659880800,
+            "WX": 200,
+            "TEMP": 24,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 94,
+            "ARPRSS": 994
+        },
+        {
+            "time": 1659884400,
+            "WX": 200,
+            "TEMP": 24,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 95,
+            "ARPRSS": 993
+        },
+        {
+            "time": 1659888000,
+            "WX": 200,
+            "TEMP": 24,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 95,
+            "ARPRSS": 993
+        },
+        {
+            "time": 1659891600,
+            "WX": 200,
+            "TEMP": 24,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 96,
+            "ARPRSS": 993
+        },
+        {
+            "time": 1659895200,
+            "WX": 200,
+            "TEMP": 23,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 96,
+            "ARPRSS": 993
+        },
+        {
+            "time": 1659898800,
+            "WX": 200,
+            "TEMP": 23,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 96,
+            "ARPRSS": 993
+        },
+        {
+            "time": 1659902400,
+            "WX": 200,
+            "TEMP": 23,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 96,
+            "ARPRSS": 993
+        },
+        {
+            "time": 1659906000,
+            "WX": 200,
+            "TEMP": 23,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 95,
+            "ARPRSS": 994
+        },
+        {
+            "time": 1659909600,
+            "WX": 200,
+            "TEMP": 23,
+            "PREC": 0,
+            "WNDDIR": 6,
+            "WNDSPD": 1,
+            "RHUM": 91,
+            "ARPRSS": 994
+        },
+        {
+            "time": 1659913200,
+            "WX": 200,
+            "TEMP": 25,
+            "PREC": 0,
+            "WNDDIR": 7,
+            "WNDSPD": 2,
+            "RHUM": 87,
+            "ARPRSS": 994
+        },
+        {
+            "time": 1659916800,
+            "WX": 200,
+            "TEMP": 26,
+            "PREC": 0,
+            "WNDDIR": 7,
+            "WNDSPD": 2,
+            "RHUM": 83,
+            "ARPRSS": 994
+        },
+        {
+            "time": 1659920400,
+            "WX": 200,
+            "TEMP": 27,
+            "PREC": 0,
+            "WNDDIR": 7,
+            "WNDSPD": 2,
+            "RHUM": 80,
+            "ARPRSS": 994
+        },
+        {
+            "time": 1659924000,
+            "WX": 200,
+            "TEMP": 29,
+            "PREC": 0,
+            "WNDDIR": 7,
+            "WNDSPD": 2,
+            "RHUM": 77,
+            "ARPRSS": 994
+        },
+        {
+            "time": 1659927600,
+            "WX": 200,
+            "TEMP": 29,
+            "PREC": 0,
+            "WNDDIR": 8,
+            "WNDSPD": 2,
+            "RHUM": 75,
+            "ARPRSS": 994
+        },
+        {
+            "time": 1659931200,
+            "WX": 300,
+            "TEMP": 30,
+            "PREC": 1,
+            "WNDDIR": 8,
+            "WNDSPD": 2,
+            "RHUM": 74,
+            "ARPRSS": 993
+        },
+        {
+            "time": 1659934800,
+            "WX": 300,
+            "TEMP": 30,
+            "PREC": 1,
+            "WNDDIR": 8,
+            "WNDSPD": 2,
+            "RHUM": 73,
+            "ARPRSS": 993
+        },
+        {
+            "time": 1659938400,
+            "WX": 200,
+            "TEMP": 30,
+            "PREC": 0,
+            "WNDDIR": 8,
+            "WNDSPD": 2,
+            "RHUM": 74,
+            "ARPRSS": 993
+        }
+    ],
+    "srftitle": "傘を忘れずに　蒸し暑い",
+    "srfcomment": "今日は晴れたり曇ったりと、変わりやすい天気。急な雨や雷雨にご注意ください。蒸し暑くなるので、熱中症対策が必須です。",
+    "mrf_attr": {
+        "time": 1658761200,
+        "stride": 86400
+    },
+    "mrf": [
+        {
+            "holiday": 0,
+            "WX": 101,
+            "MAXT": 31.5,
+            "MINT": 22.4,
+            "PREC": 0,
+            "POP": -999
+        },
+        {
+            "holiday": 0,
+            "WX": 114,
+            "MAXT": 32.7,
+            "MINT": 23.3,
+            "PREC": 10.3,
+            "POP": -999
+        },
+        {
+            "holiday": 0,
+            "WX": 100,
+            "MAXT": 33.8,
+            "MINT": 23.6,
+            "PREC": 0,
+            "POP": -999
+        },
+        {
+            "holiday": 0,
+            "WX": 100,
+            "MAXT": 33.5,
+            "MINT": 23.8,
+            "PREC": 0,
+            "POP": -999
+        },
+        {
+            "holiday": 0,
+            "WX": 101,
+            "MAXT": 32.8,
+            "MINT": 23.4,
+            "PREC": 0,
+            "POP": -999
+        },
+        {
+            "holiday": 1,
+            "WX": 552,
+            "MAXT": 34.6,
+            "MINT": 23.6,
+            "PREC": 0,
+            "POP": -999
+        },
+        {
+            "holiday": 0,
+            "WX": 552,
+            "MAXT": 35.3,
+            "MINT": 24.7,
+            "PREC": 0,
+            "POP": -999
+        },
+        {
+            "holiday": 0,
+            "WX": 552,
+            "MAXT": 34.7,
+            "MINT": 23.5,
+            "PREC": 0,
+            "POP": -999
+        },
+        {
+            "holiday": 0,
+            "WX": 101,
+            "MAXT": 33,
+            "MINT": 23.1,
+            "PREC": 0,
+            "POP": -999
+        },
+        {
+            "holiday": 0,
+            "WX": 302,
+            "MAXT": 27.3,
+            "MINT": 22.4,
+            "PREC": 70.9,
+            "POP": -999
+        },
+        {
+            "holiday": 0,
+            "WX": 100,
+            "MAXT": 28,
+            "MINT": 21,
+            "PREC": -999,
+            "POP": 30
+        },
+        {
+            "holiday": 0,
+            "WX": 101,
+            "MAXT": 31,
+            "MINT": 22,
+            "PREC": -999,
+            "POP": 30
+        },
+        {
+            "holiday": 1,
+            "WX": 103,
+            "MAXT": 31,
+            "MINT": 23,
+            "PREC": -999,
+            "POP": 60
+        },
+        {
+            "holiday": 0,
+            "WX": 201,
+            "MAXT": 32,
+            "MINT": 24,
+            "PREC": -999,
+            "POP": 30
+        },
+        {
+            "holiday": 0,
+            "WX": 201,
+            "MAXT": 31,
+            "MINT": 24,
+            "PREC": -999,
+            "POP": 30
+        },
+        {
+            "holiday": 0,
+            "WX": 201,
+            "MAXT": 31,
+            "MINT": 24,
+            "PREC": -999,
+            "POP": 30
+        },
+        {
+            "holiday": 1,
+            "WX": 201,
+            "MAXT": 32,
+            "MINT": 24,
+            "PREC": -999,
+            "POP": 30
+        },
+        {
+            "holiday": 0,
+            "WX": 201,
+            "MAXT": 33,
+            "MINT": 24,
+            "PREC": -999,
+            "POP": 30
+        },
+        {
+            "holiday": 0,
+            "WX": 202,
+            "MAXT": 32,
+            "MINT": 24,
+            "PREC": -999,
+            "POP": 60
+        },
+        {
+            "holiday": 1,
+            "WX": 202,
+            "MAXT": 33,
+            "MINT": 24,
+            "PREC": -999,
+            "POP": 60
+        },
+        {
+            "holiday": 0,
+            "WX": 200,
+            "MAXT": 33,
+            "MINT": 24,
+            "PREC": -999,
+            "POP": 40
+        }
+    ],
+    "mrftitle": "急な雨に注意　真夏の暑さ続く",
+    "mrfcomment": "変わりやすい天気で、日差しが届いてもにわか雨や雷雨の可能性があります。晴雨兼用傘が活躍。晴れると一層暑さが厳しくなり、熱中症対策が欠かせません。",
+    "today_tomorrow_attr": {
+        "time": 1659452400,
+        "stride": 86400
+    },
+    "today_tomorrow": [
+        {
+            "holiday": 0,
+            "PREC": 0,
+            "POP_AM": -999,
+            "POP_PM": -999,
+            "sunrise": "05:05",
+            "sunset": "18:58",
+            "TMAX": 33,
+            "TMAX_DIFF": -2,
+            "TMIN": 23.1,
+            "TMIN_DIFF": -1,
+            "WNDDIR": 16,
+            "WNDSPD": 3,
+            "WX": 101
+        },
+        {
+            "holiday": 0,
+            "PREC": 70.9,
+            "POP_AM": -999,
+            "POP_PM": -999,
+            "sunrise": "05:06",
+            "sunset": "18:57",
+            "TMAX": 27.3,
+            "TMAX_DIFF": -6,
+            "TMIN": 22.4,
+            "TMIN_DIFF": -1,
+            "WNDDIR": 16,
+            "WNDSPD": 2,
+            "WX": 302
+        },
+        {
+            "holiday": 0,
+            "PREC": -999,
+            "POP_AM": -999,
+            "POP_PM": 20,
+            "sunrise": "05:07",
+            "sunset": "18:56",
+            "TMAX": 28,
+            "TMAX_DIFF": 1,
+            "TMIN": 21,
+            "TMIN_DIFF": -1,
+            "WNDDIR": 15,
+            "WNDSPD": 2,
+            "WX": 100
+        },
+        {
+            "holiday": 0,
+            "PREC": -999,
+            "POP_AM": 20,
+            "POP_PM": 20,
+            "sunrise": "05:07",
+            "sunset": "18:55",
+            "TMAX": 31,
+            "TMAX_DIFF": 3,
+            "TMIN": 22,
+            "TMIN_DIFF": 1,
+            "WNDDIR": 7,
+            "WNDSPD": 2,
+            "WX": 101
+        }
+    ],
+    "today_tomorrowtitle": "傘を忘れずに　蒸し暑い",
+    "today_tomorrowcomment": "今日は晴れたり曇ったりと、変わりやすい天気。急な雨や雷雨にご注意ください。蒸し暑くなるので、熱中症対策が必須です。",
+    "warn_ary_v2": {
+        "atime": 1659682440,
+        "warn_level": 3,
+        "list": [
+            {
+                "name": "長浜市",
+                "warn": [
+                    "alrm_rain",
+                    "alrm_flood",
+                    "warn_thunder"
+                ]
+            }
+        ]
+    },
+    "flag": {
+        "fcst5m": 1
+    },
+    "evacuate": {
+        "type_name": "避難指示",
+        "type_color": "#AA00AA",
+        "url": "https://weathernews.jp/s/gensai/evacuation/city.html?citycode=25203"
+    },
+    "observation": {
+        "date": 1659681600,
+        "WX": 600,
+        "AIRTMP": 29.3,
+        "ARPRSS": 974,
+        "PREC": 0,
+        "RHUM": 73,
+        "WNDDIR": 14,
+        "WNDSPD": 1.6,
+        "FEEL": "ムシッと暑い"
+    },
+    "card_list_v4": [
+        [
+            "wni_ad_banner_M3"
+        ],
+        [
+            "wnilive_M3"
+        ],
+        [
+            "wni_ad_banner_M1",
+            "adx_banner_1"
+        ],
+        [
+            "contents_recommend0"
+        ],
+        [
+            "report"
+        ],
+        [
+            "area_recommend"
+        ],
+        [
+            "news"
+        ],
+        [
+            "wnilive_M1"
+        ],
+        [
+            "adx_banner_2"
+        ],
+        [
+            "contents_recommend1"
+        ],
+        [
+            "contents_recommend2"
+        ],
+        [
+            "contents_recommend4"
+        ],
+        [
+            "laundry"
+        ],
+        [
+            "heatstroke"
+        ],
+        [
+            "fortune"
+        ],
+        [
+            "contents_recommend5"
+        ]
+    ],
+    "report": [
+        {
+            "card": "report",
+            "livecamera": {
+                "name": "敦賀市内",
+                "id": "410001374",
+                "photo_list": [
+                    {
+                        "url": "https://mwsgvs.cdn.weathernews.jp/ip/livecam/410001374/20220805063854.jpg",
+                        "date": 1659681534
+                    },
+                    {
+                        "url": "https://mwsgvs.cdn.weathernews.jp/ip/livecam/410001374/20220805063956.jpg",
+                        "date": 1659681596
+                    },
+                    {
+                        "url": "https://mwsgvs.cdn.weathernews.jp/ip/livecam/410001374/20220805064056.jpg",
+                        "date": 1659681656
+                    },
+                    {
+                        "url": "https://mwsgvs.cdn.weathernews.jp/ip/livecam/410001374/20220805064155.jpg",
+                        "date": 1659681715
+                    },
+                    {
+                        "url": "https://mwsgvs.cdn.weathernews.jp/ip/livecam/410001374/20220805064256.jpg",
+                        "date": 1659681776
+                    },
+                    {
+                        "url": "https://mwsgvs.cdn.weathernews.jp/ip/livecam/410001374/20220805064356.jpg",
+                        "date": 1659681836
+                    },
+                    {
+                        "url": "https://mwsgvs.cdn.weathernews.jp/ip/livecam/410001374/20220805064454.jpg",
+                        "date": 1659681894
+                    },
+                    {
+                        "url": "https://mwsgvs.cdn.weathernews.jp/ip/livecam/410001374/20220805064556.jpg",
+                        "date": 1659681956
+                    },
+                    {
+                        "url": "https://mwsgvs.cdn.weathernews.jp/ip/livecam/410001374/20220805064656.jpg",
+                        "date": 1659682016
+                    },
+                    {
+                        "url": "https://mwsgvs.cdn.weathernews.jp/ip/livecam/410001374/20220805064755.jpg",
+                        "date": 1659682075
+                    }
+                ]
+            },
+            "report_list": [
+                {
+                    "img": "https://smtgvs.cdn.weathernews.jp/smart/report/thumb/2022-08-05/64686242.jpg",
+                    "id": "64686242",
+                    "reporter_id": "279949548",
+                    "movie": 0
+                },
+                {
+                    "img": "https://smtgvs.cdn.weathernews.jp/smart/report/thumb/2022-08-05/64685142.jpg",
+                    "id": "64685142",
+                    "reporter_id": "372326678",
+                    "movie": 0
+                },
+                {
+                    "img": "https://smtgvs.cdn.weathernews.jp/smart/report/thumb/2022-08-05/64686096.jpg",
+                    "id": "64686096",
+                    "reporter_id": "366241538",
+                    "movie": 0
+                },
+                {
+                    "img": "https://smtgvs.cdn.weathernews.jp/smart/report/thumb/2022-08-05/64684819.jpg",
+                    "id": "64684819",
+                    "reporter_id": "114385891",
+                    "movie": 0
+                }
+            ]
+        }
+    ],
+    "news": [
+        {
+            "card": "news",
+            "news_list": [
+                {
+                    "txt": "神戸市周辺でゲリラ雷雨　関西エリアは夕方にかけて急変注意",
+                    "img": "https://smtgvs.cdn.weathernews.jp//s/topics/thumb/article/202208050225_top_img_A_320x240.jpg?1659681564",
+                    "url": "https://weathernews.jp/s/topics/202208/050225/?fm=under_pinpoint1",
+                    "edit_tm": 1659681180
+                },
+                {
+                    "txt": "東京都心は今日も30℃に届かず　西日本は厳しい暑さ",
+                    "img": "https://smtgvs.cdn.weathernews.jp//s/topics/thumb/article/202208050215_top_img_A_320x240.jpg?1659680575",
+                    "url": "https://weathernews.jp/s/topics/202208/050215/?fm=under_pinpoint2",
+                    "edit_tm": 1659679740
+                },
+                {
+                    "txt": "週間天気　日曜日はゲリラ雷雨に注意　北日本は来週も大雨のおそれ",
+                    "img": "https://smtgvs.cdn.weathernews.jp//s/topics/thumb/article/202208050115_top_img_A_320x240.jpg?1659677499",
+                    "url": "https://weathernews.jp/s/topics/202208/050115/?fm=under_pinpoint3",
+                    "edit_tm": 1659677460
+                }
+            ]
+        }
+    ],
+    "wni_ad_banner": [],
+    "area_recommend": [
+        {
+            "card": "area_recommend",
+            "title": "滋賀のおすすめ情報",
+            "recommend_list": [
+                {
+                    "txt": "河川の増水に警戒｜河川情報",
+                    "img": "https://site.weathernews.jp/app/img/area_rec/suigai_sidemenu@2x.png",
+                    "url": "weathernews://weathernews.jp/hiresradar?mode=river&path=arearecommend",
+                    "premium": 0
+                },
+                {
+                    "txt": "土砂災害の危険度を確認",
+                    "img": "https://site.weathernews.jp/app/img/area_rec/20220531_091902_21041.png",
+                    "url": "https://weathernews.jp/s/dosha/?path=arearecommend",
+                    "premium": 0
+                },
+                {
+                    "txt": "10月までの天気傾向は？｜長期予報",
+                    "img": "https://site.weathernews.jp/app/img/area_rec/20220621_185809_7629.png",
+                    "url": "https://weathernews.jp/s/opinion/comment.html?path=arearecommend",
+                    "premium": 1
+                }
+            ]
+        }
+    ],
+    "contents_recommend": [
+        {
+            "card": "contents_recommend0",
+            "title": "",
+            "txt": "【氾濫発生情報】淀川水系高時川\n＜レーダー河川モードで詳しく＞",
+            "img": "",
+            "url": "weathernews://weathernews.jp/hiresradar?mode=river&path=first",
+            "banner_color": "black"
+        },
+        {
+            "card": "contents_recommend1",
+            "title": "",
+            "txt": "",
+            "img": "https://site.weathernews.jp/app/img/contents_rec/banner/20220511_131209_23849.png",
+            "url": "https://weathernews.jp/s/news/rain/?path=opscard",
+            "banner_color": ""
+        },
+        {
+            "card": "contents_recommend2",
+            "title": "",
+            "txt": "",
+            "img": "https://site.weathernews.jp/app/img/contents_rec/banner/20220730_172736_21873.png",
+            "url": "weathernews://weathernews.jp/hiresradar?mode=river&path=opscard",
+            "banner_color": ""
+        },
+        {
+            "card": "contents_recommend4",
+            "title": "",
+            "txt": "",
+            "img": "https://site.weathernews.jp/app/img/contents_rec/banner/20210709_170643_19668.png",
+            "url": "https://weathernews.jp/smart/wnt_sample/?menu=smartalarm&path=opscard",
+            "banner_color": ""
+        },
+        {
+            "card": "contents_recommend5",
+            "title": "",
+            "txt": "",
+            "img": "https://site.weathernews.jp/app/img/contents_rec/banner/banner_premium_03@2x.png",
+            "url": "https://weathernews.jp/smart/wnt_sample/?menu=pinpointweather&path=opscard",
+            "banner_color": ""
+        }
+    ],
+    "wnilive": [
+        {
+            "card": "wnilive_M1",
+            "youtubeID": "OgXq-tY82iU"
+        }
+    ],
+    "wx_driven_contents": [],
+    "fortune": [
+        {
+            "card": "fortune",
+            "maxCount": 300
+        }
+    ],
+    "laundry": [
+        {
+            "card": "laundry",
+            "url": "https://aplapi.weathernews.jp/lba/washing/day_telop/"
+        }
+    ],
+    "pollen": [],
+    "wxalarm": [
+        {
+            "card": "wxalarm",
+            "img": "https://site.weathernews.jp/app/img/wxalarm_rec/banner_wxalarm_recommend_trans@2x.png"
+        }
+    ],
+    "heatstroke": [
+        {
+            "card": "heatstroke",
+            "level": 3,
+            "date": "8月5日(金)",
+            "url": "https://weathernews.jp/s/heatstroke/pinpoint.html"
+        }
+    ],
+    "admob_native_100": [],
+    "admob_banner_100": [],
+    "line_banner_100": [],
+    "adx_banner": [],
+    "admob_banner_50": [],
+    "ad_key_value": [],
+    "im_audience": {
+        "im_request": 1,
+        "require_segments": [
+            "5XYg4Gea",
+            "dXgJP7kY",
+            "7XbOElW8",
+            "mXM2qmW8",
+            "reR3EakO",
+            "VeAbVdkz",
+            "RexQ5Kkb",
+            "jWZb80WA",
+            "aW93jQkr",
+            "memQ8JeO"
+        ]
+    }
+}
