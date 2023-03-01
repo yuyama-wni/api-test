@@ -1849,7 +1849,14 @@
 			"img": "https://site.weathernews.jp/app/img/wxalarm_rec/banner_wxalarm_recommend_trans@2x.png"
 		}
 	],
-	"heatstroke": [ ],
+	"heatstroke": [
+		{
+			"card": "heatstroke",
+			"level": 4,
+			"date": "3月1日(水)",
+			"url": "https://weathernews.jp/s/heatstroke/gps.html"
+	    	}
+	],
 	"admob_native_100": [
 		{
 			"card": "admob_native_100_1",
