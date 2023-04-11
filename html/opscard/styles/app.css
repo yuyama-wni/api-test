@@ -153,7 +153,6 @@ table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details
   position: relative;
   font-size: 15px;
   line-height: 1em;
-  text-shadow: 0px 0px 3px #fff;
 }
 
 .meter .unit {
@@ -174,6 +173,9 @@ table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details
   }
   .title .text {
     color: #9FBFEC;
+  }
+  .meter {
+    background-color: #7f828d;
   }
   .meter__text {
     color: #22272e;
