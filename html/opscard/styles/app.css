@@ -1,0 +1,182 @@
+@charset "UTF-8";
+/*▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼
+▼ BASE
+▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼*/
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+@media screen and (min-width: 830px) {
+  body {
+    　position: relative;
+    overflow-x: hidden;
+  }
+}
+
+img {
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+/*====================================================================================
+BreakPoint
+====================================================================================*/
+@media screen and (max-width: 830px) {
+  .pc {
+    display: none !important;
+  }
+}
+
+@media screen and (min-width: 830px) {
+  .sp {
+    display: none !important;
+  }
+}
+
+/*====================================================================================
+Font
+====================================================================================*/
+h1, h2, h3, h4, h5, h6, p, a, blockquote, pre, abbr, address, cite, code, dt, dd, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure {
+  word-wrap: break-word;
+  color: #303030;
+  font-family: Arial, Droid Sans, Roboto, Hiragino Kaku Gothic ProN, "ヒラギノ角ゴ ProN", Hiragino Kaku Gothic Pro, "ヒラギノ角ゴ Pro", "ヒラギノ角ゴシック", "Hiragino Sans", "ヒラギノ角ゴ ProN W3", HiraKakuProN-W3, "メイリオ", Meiryo, "游ゴシック体", YuGothic, "ＭＳ Ｐゴシック", sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 1.5em;
+  list-style-type: none;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.cardInner > *:not(:last-child) {
+  margin-bottom: 15px;
+}
+
+/*▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼
+▼ title
+▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼*/
+.title {
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.title .text {
+  color: #101010;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.title .badge {
+  display: inline-block;
+  margin-right: 0.5em;
+  padding: 3px;
+  border-radius: 2px;
+  background-color: #438FEC;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1em;
+  text-align: center;
+}
+
+.link a {
+  color: #438FEC;
+  font-size: 13px;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+/*▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼
+▼ リスト
+▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼*/
+.horizontalList01 {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  gap: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  align-items: center;
+  padding-bottom: 10px;
+  overflow-x: scroll;
+}
+
+.horizontalList01 > .item {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  gap: 3px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  align-items: center;
+}
+
+.horizontalList01 .icon {
+  width: 45px;
+  height: 45px;
+}
+
+.meter {
+  position: relative;
+  min-width: 70px;
+  padding: 3px 5px;
+  overflow: hidden;
+  border-radius: 2px;
+  background-color: #e9eef2;
+}
+
+.meter *[class*="num"] {
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 0%;
+  height: 100%;
+}
+
+.meter__text {
+  z-index: 2;
+  position: relative;
+  font-size: 15px;
+  line-height: 1em;
+  text-shadow: 0px 0px 3px #fff;
+}
+
+.meter .unit {
+  font-size: 12px;
+}
+
+/*▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼
+▼ dark mode
+▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼*/
+@media (prefers-color-scheme: dark) {
+  h1, h2, h3, h4, h5, h6, p, a, blockquote, pre, abbr, address, cite, code, dt, dd, li, fieldset, form, label, legend,
+  table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure {
+    color: #CED8E6;
+  }
+  html, body {
+    background-color: #22272E;
+    color: #CED8E6;
+  }
+  .title .text {
+    color: #9FBFEC;
+  }
+  .meter__text {
+    color: #22272e;
+    text-shadow: none;
+  }
+}
