@@ -51,12 +51,18 @@ table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details
   list-style-type: none;
 }
 
+body {
+  width: 100vw;
+  padding: 5px;
+  overflow: hidden;
+}
+
 .bold {
   font-weight: bold;
 }
 
 .cardInner > *:not(:last-child) {
-  margin-bottom: 15px;
+  margin-bottom: 5px;
 }
 
 /*▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼
@@ -111,8 +117,30 @@ table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details
   display: -ms-flexbox;
   display: flex;
   align-items: center;
-  padding-bottom: 10px;
   overflow-x: scroll;
+}
+
+.horizontalList01 .content .bold {
+  font-size: 14px;
+}
+
+.horizontalList01::-webkit-scrollbar {
+  /* スクロールバーの高さと幅 */
+  width: 0px;
+  height: 0px;
+}
+
+.horizontalList01::-webkit-scrollbar-track {
+  /* スクロールバー背景 */
+  border-radius: 100px;
+  background-color: transparent;
+}
+
+.horizontalList01::-webkit-scrollbar-thumb {
+  border: 0px solid transparent;
+  /* スクロールバー */
+  border-radius: 100px;
+  background: transparent;
 }
 
 .horizontalList01 > .item {
@@ -126,14 +154,14 @@ table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details
 }
 
 .horizontalList01 .icon {
-  width: 45px;
-  height: 45px;
+  width: 35px;
+  height: 35px;
 }
 
 .meter {
   position: relative;
   min-width: 70px;
-  padding: 3px 5px;
+  padding: 2px 3px;
   overflow: hidden;
   border-radius: 2px;
   background-color: #e9eef2;
@@ -151,8 +179,9 @@ table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details
 .meter__text {
   z-index: 2;
   position: relative;
-  font-size: 15px;
+  font-size: 14px;
   line-height: 1em;
+  text-shadow: 0px 0px 4px rgba(255, 255, 255, 0.5);
 }
 
 .meter .unit {
@@ -179,6 +208,5 @@ table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details
   }
   .meter__text {
     color: #22272e;
-    text-shadow: none;
   }
 }
