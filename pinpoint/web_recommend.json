@@ -1768,7 +1768,7 @@
 	"web_contents_recommend": [
 		{
 			"card": "contents_recommend0",
-			"url": "https://weathernews.jp/test/webview.html"
+			"url": "https://weathernews.jp/test/web_vue.html"
 		}
 	],
 	"wnilive": [
