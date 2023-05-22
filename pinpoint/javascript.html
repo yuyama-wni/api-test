@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <script type="text/javascript">
+            function getLat() {
+                const result = Android.lat();
+                document.getElementById("text").innerHTML = result;
+            }
+			function getLon() {
+                const result = Android.lon();
+                document.getElementById("text").innerHTML = result;
+            }
+			function getAkey() {
+                const result = Android.akey();
+                document.getElementById("text").innerHTML = result;
+            }
+			function getCarrier() {
+                const result = Android.getCarrier();
+                document.getElementById("text").innerHTML = result;
+            }
+        </script>
+        <input type="button" value="lat"
+               onClick="getLat();" />
+		<input type="button" value="lon"
+               onClick="getLon();" />
+		<input type="button" value="getCarrier"
+               onClick="getCarrier();" />
+        <p id="text"></p>
+    </body>
+</html>
