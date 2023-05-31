@@ -1862,7 +1862,9 @@
 				"banner_320_50",
 				"banner_320_100",
 				"adaptive_banner_320_100",
-				"banner_320_180"
+				"banner_320_180",
+				"banner_300_250",
+				"adaptive_banner_300_250"
 			],
 			"targeting_pattern": "D"
 		}
