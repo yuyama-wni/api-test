@@ -1,0 +1,59 @@
+@charset "UTF-8";
+@media (prefers-color-scheme: dark) {
+  /*====================================================================================
+    setting
+    ====================================================================================*/
+  h1, h2, h3, h4, h5, h6, p, a, blockquote, pre, abbr, address, cite, code, dt, dd, li, fieldset, form, label, legend,
+  table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure {
+    color: #CED8E6;
+  }
+  html:root, .grayArea {
+    background-color: #343A45;
+  }
+  .cardTop, .block, .fixedBottom {
+    background-color: #22272E;
+    color: #CED8E6;
+  }
+  .titleArea .title {
+    color: #9FBFEC;
+  }
+  /*▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼
+    ▼ 
+    ▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼*/
+  .titleArea.m3 {
+    background-color: #EF4D8B;
+  }
+  .titleArea.m3 * {
+    color: #fff;
+  }
+  .titleArea.m3 .textLink > * {
+    color: #EF4D8B;
+  }
+  .titleArea.m3 .textLink > *:after {
+    border-left-color: #EF4D8B;
+  }
+  .titleArea.m2 {
+    background-color: #F4C700;
+  }
+  .titleArea.m2 * {
+    color: #fff;
+  }
+  .titleArea.m2 .textLink > * {
+    color: #F4C700;
+  }
+  .titleArea.m2 .textLink > *:after {
+    border-left-color: #F4C700;
+  }
+  .titleArea.m1 {
+    background-color: #86ADE2;
+  }
+  .titleArea.m1 * {
+    color: #fff;
+  }
+  .titleArea.m1 .textLink > * {
+    color: #86ADE2;
+  }
+  .titleArea.m1 .textLink > *:after {
+    border-left-color: #86ADE2;
+  }
+}
