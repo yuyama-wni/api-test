@@ -1,0 +1,65 @@
+@charset "UTF-8";
+/*▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼
+▼ BASE
+▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼△▼*/
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+@media screen and (min-width: 830px) {
+  body {
+    　position: relative;
+    overflow-x: hidden;
+  }
+}
+
+img {
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+/*====================================================================================
+BreakPoint
+====================================================================================*/
+@media screen and (max-width: 830px) {
+  .pc {
+    display: none !important;
+  }
+}
+
+@media screen and (min-width: 830px) {
+  .sp {
+    display: none !important;
+  }
+}
+
+/*====================================================================================
+Font
+====================================================================================*/
+h1, h2, h3, h4, h5, h6, p, a, blockquote, pre, abbr, address, cite, code, dt, dd, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure {
+  word-wrap: break-word;
+  color: #303030;
+  font-family: Droid Sans, Roboto, "ヒラギノ角ゴシック", "Hiragino Sans", Hiragino Kaku Gothic ProN, "ヒラギノ角ゴ ProN", Hiragino Kaku Gothic Pro, "ヒラギノ角ゴ Pro", "ヒラギノ角ゴ ProN W3", HiraKakuProN-W3, "メイリオ", Meiryo, "游ゴシック体", YuGothic, "ＭＳ Ｐゴシック", sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 1.5em;
+  list-style-type: none;
+}
+
+body {
+  margin: 30px;
+}
+
+table {
+  border: 1px solid #ccc;
+}
+
+table th, table td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
