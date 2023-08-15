@@ -1795,7 +1795,7 @@
 	"web_contents_recommend": [
 		{
 			"card": "web_contents_recommend1",
-			"url": "https://weathernews.jp/webcard/typhoon/?dynamic=1&is_premium=0&path=robot_doc&pref=chiba&test=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"url": "https://weathernews.jp/webcard/typhoon/?dynamic=1&is_premium=0&path=robot_doc&pref=chiba&test=1234567890&test2=123456789012345678901234567890",
 			"estimated_height": 268
 		},
 		{
