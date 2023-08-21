@@ -1684,19 +1684,19 @@
 				{
 					"txt": "今朝は近畿など西日本で土砂降りの雨、午後にかけて関東も本降りに",
 					"img": "https://smtgvs.cdn.weathernews.jp//s/topics/thumb/article/202306220015_top_img_A_320x240.jpg?1687387666",
-					"url": "https://weathernews.jp/s/topics/202306/220015/?fm=under_pinpoint1",
+					"url": "weathernews://weathernews.jp/hiresradar?mode=grisk&gps=1&path=first",
 					"edit_tm": 1687387620
 				},
 				{
 					"txt": "熱中症警戒アラート 今日22日(木)対象　沖縄県・八重山地方に発表",
 					"img": "https://smtgvs.cdn.weathernews.jp//s/topics/thumb/article/202306220055_top_img_A_320x240.jpg?1687389125",
-					"url": "https://weathernews.jp/s/topics/202306/220055/?fm=under_pinpoint2",
+					"url": "weathernews://weathernews.jp/hiresradar?mode=grisk&gps=1&path=first",
 					"edit_tm": 1687389060
 				},
 				{
 					"txt": "今日22日(木)の天気　雨の範囲が東へ広がり、関東は次第に本降りの雨に",
 					"img": "https://smtgvs.cdn.weathernews.jp//s/topics/thumb/article/202306220025_top_img_A_320x240.jpg?1687385419",
-					"url": "https://weathernews.jp/s/topics/202306/220025/?fm=under_pinpoint3",
+					"url": "weathernews://weathernews.jp/hiresradar?mode=grisk&gps=1&path=first",
 					"edit_tm": 1687378200
 				}
 			]
@@ -1711,19 +1711,19 @@
 				{
 					"txt": "雨雲が接近・通過中｜レーダー",
 					"img": "https://site.weathernews.jp/app/img/area_rec/20210612_181746_19879.png",
-					"url": "https://site.weathernews.jp/oms/rd/weathernews.html?url=hiresradar\u0026mode=ame\u0026gps=1\u0026path=robot_arearecommend",
+					"url": "weathernews://weathernews.jp/hiresradar?mode=grisk&gps=1&path=first",
 					"premium": 0
 				},
 				{
 					"txt": "10日先までの服装予報をチェック",
 					"img": "https://site.weathernews.jp/app/img/area_rec/20211029_113301_23475.png",
-					"url": "https://weathernews.jp/s/clothes/?path=arearecommend",
+					"url": "weathernews://weathernews.jp/hiresradar?mode=grisk&gps=1&path=first",
 					"premium": 0
 				},
 				{
 					"txt": "7〜9月の天気\u0026気温傾向｜長期予報",
 					"img": "https://site.weathernews.jp/app/img/area_rec/20220621_185809_7629.png",
-					"url": "https://weathernews.jp/s/opinion/comment.html?path=arearecommend",
+					"url": "weathernews://weathernews.jp/hiresradar?mode=grisk&gps=1&path=first",
 					"premium": 1
 				}
 			]
@@ -1735,7 +1735,7 @@
 			"title": "",
 			"txt": "",
 			"img": "https://site.weathernews.jp/app/img/contents_rec/card/20230220_181104_22630.jpeg",
-			"url": "https://weathernews.jp/s/news/rain/?path=opscard",
+			"url": "weathernews://weathernews.jp/hiresradar?mode=grisk&gps=1&path=first",
 			"banner_color": ""
 		},
 		{
@@ -1743,7 +1743,7 @@
 			"title": "",
 			"txt": "",
 			"img": "https://site.weathernews.jp/app/img/contents_rec/card/20230220_181054_22141.jpeg",
-			"url": "https://weathernews.jp/smart/wnt_sample/?menu=smartalarm\u0026path=opscard",
+			"url": "weathernews://weathernews.jp/hiresradar?mode=grisk&gps=1&path=first",
 			"banner_color": ""
 		},
 		{
@@ -1751,7 +1751,7 @@
 			"title": "",
 			"txt": "",
 			"img": "https://site.weathernews.jp/app/img/contents_rec/banner/20230424_135116_29574.png",
-			"url": "https://weathernews.jp/s/clothes/result.html?path=opscard",
+			"url": "weathernews://weathernews.jp/hiresradar?mode=grisk&gps=1&path=first",
 			"banner_color": ""
 		},
 		{
@@ -1759,7 +1759,7 @@
 			"title": "",
 			"txt": "",
 			"img": "https://site.weathernews.jp/app/img/contents_rec/banner/20230611_160005_21722.png",
-			"url": "https://weathernews.jp/app/cm/?path=opscard",
+			"url": "weathernews://weathernews.jp/hiresradar?mode=grisk&gps=1&path=first",
 			"banner_color": ""
 		},
 		{
@@ -1767,7 +1767,7 @@
 			"title": "",
 			"txt": "",
 			"img": "https://site.weathernews.jp/app/img/contents_rec/banner/banner_premium_03@2x.png",
-			"url": "https://weathernews.jp/smart/wnt_sample/?menu=pinpointweather\u0026path=opscard",
+			"url": "weathernews://weathernews.jp/hiresradar?mode=grisk&gps=1&path=first",
 			"banner_color": ""
 		}
 	],
@@ -1843,7 +1843,7 @@
 	"laundry": [
 		{
 			"card": "laundry",
-			"url": "https://aplapi.weathernews.jp/lba/washing/day_telop/"
+			"url": "weathernews://weathernews.jp/hiresradar?mode=grisk&gps=1&path=first"
 		}
 	],
 	"pain": [
@@ -1851,7 +1851,7 @@
 			"card": "pain",
 			"level": 2,
 			"date": "6月22日(木)",
-			"url": "https://weathernews.jp/s/pain/city.html"
+			"url": "weathernews://weathernews.jp/hiresradar?mode=grisk&gps=1&path=first"
 		}
 	],
 	"pollen": [ ],
@@ -1866,7 +1866,7 @@
 			"card": "heatstroke",
 			"level": 3,
 			"date": "6月22日(木)",
-			"url": "https://weathernews.jp/s/heatstroke/pinpoint.html"
+			"url": "weathernews://weathernews.jp/hiresradar?mode=grisk&gps=1&path=first"
 		}
 	],
 	"admob_native_100": [
